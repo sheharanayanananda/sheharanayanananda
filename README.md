@@ -16,7 +16,7 @@
 
 ## 🧠 Code. Learn. Repeat.
 
-Hi, I'm Shehara – an aspiring Android Developer and passionate Full Stack Engineer from Sri Lanka.  
+Hi, I'm Shehara, an aspiring Android Developer and passionate Full Stack Engineer from Sri Lanka.  
 - 🔭 I’m currently working as a Freelance Web & Android Developer. I just released the first iteration of my **Notes App** built with Kotlin and Jetpack Compose!  
 - 📚 I'm expanding my skills in advanced Android development, mastering database integration, exploring MVVM architecture, and diving into AI engineering with LLMs, RAGs, and model fine-tuning.  
 - ⚡ In my free time, I work on side projects, keep up with emerging tech, and continuously refine my coding skills.  
