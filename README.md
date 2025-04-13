@@ -18,10 +18,6 @@
 
 ###
 
-<img src="https://github.com/sheharanayanananda/sheharanayanananda/tree/main/snake.yml" alt="Snake animation" />
-
-###
-
 <br clear="both">
 
 <p align="center"></p>
