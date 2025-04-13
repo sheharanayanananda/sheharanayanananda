@@ -18,7 +18,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sheharanayanananda/sheharanayanananda/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sheharanayanananda/sheharanayanananda/snake.svg" alt="Snake animation" />
 
 ###
 
