@@ -5,11 +5,21 @@
 # Hi There, I'm Shehara Nayanananda 👨🏻‍💻🚀
 
 <div align="center">
-  <a href="https://facebook.com/yourprofile"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="25" alt="Facebook" /></a>
-  <a href="https://instagram.com/yourprofile"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="Instagram" /></a>
-  <a href="https://wa.me/yourwhatsapplink"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="25" alt="WhatsApp" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="Gmail" /></a>
+  <a href="https://facebook.com/yourprofile">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="25" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/yourprofile">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="Instagram" />
+  </a>
+  <a href="https://wa.me/yourwhatsapplink">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="25" alt="WhatsApp" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="Gmail" />
+  </a>
 </div>
 
 ---
@@ -17,11 +27,11 @@
 ## 🧠 Code. Learn. Repeat.
 
 Hi, I'm Shehara – an aspiring Android Developer and passionate Full Stack Engineer from Sri Lanka.  
-- 🔭 I’m currently working as a Freelance Web & Android Developer. Recently, I released the first iteration of my **Notes App** built with Kotlin and Jetpack Compose!  
-- 📚 I'm expanding my skills in advanced Android development (e.g., database integration and MVVM architecture) while also exploring AI engineering like LLMs and model fine-tuning in my spare time.  
-- ⚡ In my free time, I tinker with side projects, stay updated on emerging tech, and refine my coding craft.
+- 🔭 I’m currently working as a Freelance Web & Android Developer. I just released the first iteration of my **Notes App** built with Kotlin and Jetpack Compose!  
+- 📚 I'm expanding my skills in advanced Android development, mastering database integration, exploring MVVM architecture, and diving into AI engineering with LLMs, RAGs, and model fine-tuning.  
+- ⚡ In my free time, I work on side projects, keep up with emerging tech, and continuously refine my coding skills.  
 
-My mission? To build simple, beautiful apps that solve real-world problems. Let's build something amazing together!
+My mission is to build apps that are simple, beautiful, and solve real problems. Let's build something amazing together! 🚀
 
 ---
 
@@ -75,20 +85,8 @@ My mission? To build simple, beautiful apps that solve real-world problems. Let'
 ## 📈 GitHub in Numbers
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sheharanayanananda&show_icons=true&theme=dracula&hide_border=true" height="180" alt="GitHub Stats"  />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sheharanayanananda&layout=compact&langs_count=10&theme=dracula&hide_border=true" height="180" alt="Top Languages"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sheharanayanananda&show_icons=true&theme=dracula&hide_border=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sheharanayanananda&layout=compact&langs_count=10&theme=dracula&hide_border=true" height="180" alt="Top Languages" />
 </div>
 
 ---
-
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/sheharanayanananda/notes-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sheharanayanananda&repo=notes-app&theme=dracula" alt="Notes App" />
-  </a>
-  <!-- You can add more featured projects here -->
-</div>
