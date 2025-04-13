@@ -18,7 +18,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sheharanayanananda/sheharanayanananda/snake.svg" alt="Snake animation" />
+<img src="https://github.com/sheharanayanananda/sheharanayanananda/tree/main/snake.yml" alt="Snake animation" />
 
 ###
 
