@@ -65,13 +65,6 @@ My mission is to build apps that are simple, beautiful, and solve real problems.
 
 ---
 
-<div align="center">
-  <!-- Visitor Count Badge -->
-  <img src="https://komarev.com/ghpvc/?username=sheharanayanananda&color=brightgreen&style=flat" alt="Visitor Count" height="25" />
-</div>
-
----
-
 ## 📈 GitHub in Numbers
 
 <div align="center">
