@@ -14,6 +14,18 @@
 
 ---
 
+## 🚀 Latest Updates
+
+Stay tuned for the latest progress, project releases, and news:
+
+### ⭕ Taskify Web App Project Has Postponed Temporarily. But Planed To Resume ASAP. ⭕
+
+- **Apr 2025**: Started to work on my first Android app "Notes". 🚀
+- **Mar 2025**: Postponed Taskify Web App Development For a Short Time Period. 🗄️
+- **Jan 2025**: Learned Android Development including UI & UX Concepts. 👨🏻‍💻
+
+---
+
 ## 🧠 Code. Learn. Repeat.
 
 Hi, I'm Shehara, an aspiring Android Developer and passionate Full Stack Engineer from Sri Lanka.  
