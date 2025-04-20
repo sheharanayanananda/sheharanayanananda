@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="/images/banner.png" alt="Banner Image" />
+  <img width="auto" src="/images/banner.png" alt="Banner Image" />
 </div>
 
 # Hi There, I'm Shehara Nayanananda 👨🏻‍💻🚀
