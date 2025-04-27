@@ -18,6 +18,7 @@
 
 Stay tuned for the latest progress, project releases, and news:
 
+### ✅ Notes App Is Planned To Release In The Mid May 2025. ✅
 ### ⭕ Taskify Web App Project Has Postponed Temporarily. But Planed To Resume ASAP. ⭕
 
 - **Apr 2025**: Started to work on my first Android app "Notes". 🚀
