@@ -4,13 +4,13 @@
 
 # Hi There, I'm Shehara Nayanananda 👨🏻‍💻🚀
 
-<div align="center">
+<!--div align="center">
   <a href="https://facebook.com/yourprofile"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="25" alt="Facebook" /></a>
   <a href="https://instagram.com/yourprofile"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="Instagram" /></a>
   <a href="https://wa.me/yourwhatsapplink"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="25" alt="WhatsApp" /></a>
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" /></a>
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="Gmail" /></a>
-</div>
+</div-->
 
 ---
 
