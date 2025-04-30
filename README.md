@@ -62,30 +62,30 @@ I'm a Full Stack Engineer and Android Developer from Sri Lanka with a passion fo
 
 <br>
 
-## <img src="https://media0.giphy.com/media/5xtDarBFszThqQF1o6A/200w.gif" width="30px" height="30px"> 🚀 Current Projects
+##🚀 Current Projects
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">Notes App 📝</h3>
       <div align="center">
-        <a href="#" target="_blank"><img src="images/app1.png" width="auto" alt="Notes App"/></a>
+        <a href="#" target="_blank"><img src="images/app1.png" alt="Notes App" /></a>
         <p>
           <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-82D550?style=for-the-badge"/>
+            <img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-82D550?style=for-the-badge" alt="In Development"/>
           </a>
         </p>
         <p><strong>Kotlin, Jetpack Compose, Room DB</strong> - A modern notes application with clean UI and intuitive UX.</p>
         <p><strong>Expected release: Mid-May 2025.</strong></p>
       </div>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">Taskify Web App ⌛</h3>
       <div align="center">
-        <a href="#" target="_blank"><img src="images/app2.png" width="auto" alt="Taskify"/></a>
+        <a href="#" target="_blank"><img src="images/app2.png" alt="Taskify" /></a>
         <p>
           <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/STATUS-PAUSED-FF6B35?style=for-the-badge"/>
+            <img src="https://img.shields.io/badge/STATUS-PAUSED-FF6B35?style=for-the-badge" alt="Paused"/>
           </a>
         </p>
         <p><strong>Laravel, TailwindCSS, MySQL</strong> - A comprehensive task management web application. Currently on hold, planned to resume ASAP.</p>
@@ -97,7 +97,7 @@ I'm a Full Stack Engineer and Android Developer from Sri Lanka with a passion fo
 
 <br>
 
-## <img src="https://media.giphy.com/media/HquKnp9WBiRlU/giphy.gif" width="30px" height="30px"> 📊 GitHub Analytics
+##❇️ GitHub Analytics
 
 <p align="center" width="100%">
   <img
@@ -115,22 +115,40 @@ I'm a Full Stack Engineer and Android Developer from Sri Lanka with a passion fo
 
 <br>
 
-## <img src="https://media.giphy.com/media/26xBIygOcC3bAWg1i/giphy.gif" width="30px" height="30px"> 📝 Latest Updates
+## 🔄 DevLog
 
-- **Apr 2025**: Started development on my first Android app "Notes" using Kotlin and Jetpack Compose
-- **Mar 2025**: Temporarily paused Taskify Web App development (planned resumption soon)
-- **Jan 2025**: Completed comprehensive training in Android Development with UI/UX principles
+<p align="center">
+  <img src="https://img.shields.io/badge/Apr%202025-🚀%20Started%20Notes%20App-blue?style=for-the-badge" alt="Apr 2025" />
+  <img src="https://img.shields.io/badge/Mar%202025-⏸️%20Taskify%20Paused-orange?style=for-the-badge" alt="Mar 2025" />
+  <img src="https://img.shields.io/badge/Jan%202025-🎓%20Android%20Training-green?style=for-the-badge" alt="Jan 2025" />
+</p>
+
+<p align="left">
+  <strong>Apr 2025</strong> — Launched development on my first Android app **Notes** using Kotlin & Jetpack Compose.<br/>
+  <strong>Mar 2025</strong> — Temporarily paused **Taskify Web App** (Laravel, Tailwind CSS, MySQL); resuming soon.<br/>
+  <strong>Jan 2025</strong> — Completed intensive Android Dev training, focusing on UI/UX & MVVM.
+</p>
 
 <br>
 
-<!--## <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="30px" height="30px"> 🎓 Education
+## 🔥 Resume
 
+<div align="center">
+  <img
+    src="images/resume1.png"
+    alt="Resume Page 1"
+    width="45%"
+  />
+  <img
+    src="images/resume2.png"
+    alt="Resume Page 2"
+    width="45%"
+  />
+</div>
 
-- **HND in Computing (Software Engineering)** - ESOFT Metro Campus, Gampaha (2023-2025)
-- **Diploma in Information Technology (DITEC)** - ESOFT Metro Campus, Gampaha (2022-2023)
-- **Diploma in English (DIE)** - ESOFT Metro Campus, Gampaha (2022-2023)
-
-<br-->
+<p align="center">
+  📄 <a href="Resume.pdf">Download full PDF</a>
+</p>
 
 ---
 
