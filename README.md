@@ -62,32 +62,34 @@ I'm a Full Stack Engineer and Android Developer from Sri Lanka with a passion fo
 
 <br>
 
-## 🚀 Current Projects
+## <img src="https://media0.giphy.com/media/5xtDarBFszThqQF1o6A/200w.gif" width="30px" height="30px"> 🚀 Current Projects
 
 <table>
   <tr>
     <td width="50%">
       <h3 align="center">Notes App 📝</h3>
       <div align="center">
-        <a href="#" target="_blank"><img src="images/notes.png" width="auto" alt="Notes App"/></a>
+        <a href="#" target="_blank"><img src="images/app1.png" width="auto" alt="Notes App"/></a>
         <p>
           <a href="#" target="_blank">
             <img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-82D550?style=for-the-badge"/>
           </a>
         </p>
-        <p><strong>Kotlin, Jetpack Compose, Room DB</strong> - A modern note-taking application with clean UI and intuitive UX. Expected release: Mid-May 2025.</p>
+        <p><strong>Kotlin, Jetpack Compose, Room DB</strong> - A modern notes application with clean UI and intuitive UX.</p>
+        <p><strong>Expected release: Mid-May 2025.</strong></p>
       </div>
     </td>
     <td width="50%">
       <h3 align="center">Taskify Web App ⌛</h3>
       <div align="center">
-        <a href="#" target="_blank"><img src="images/notes.png" width="auto" alt="Taskify"/></a>
+        <a href="#" target="_blank"><img src="images/app2.png" width="auto" alt="Taskify"/></a>
         <p>
           <a href="#" target="_blank">
             <img src="https://img.shields.io/badge/STATUS-PAUSED-FF6B35?style=for-the-badge"/>
           </a>
         </p>
         <p><strong>Laravel, TailwindCSS, MySQL</strong> - A comprehensive task management web application. Currently on hold, planned to resume ASAP.</p>
+        <p><strong>Expected release: Delayed</strong></p>
       </div>
     </td>
   </tr>
@@ -95,26 +97,25 @@ I'm a Full Stack Engineer and Android Developer from Sri Lanka with a passion fo
 
 <br>
 
-## 📊 GitHub Analytics
+## <img src="https://media.giphy.com/media/HquKnp9WBiRlU/giphy.gif" width="30px" height="30px"> 📊 GitHub Analytics
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 16px;">
-  <!-- GitHub Readme Stats -->
+<p align="center" width="100%">
   <img
     src="https://github-readme-stats.vercel.app/api?username=sheharanayanananda&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub Stats"
-    style="flex: 1 1 300px; max-width: 45%; width: 100%; height: auto;"
+    height="200"
   />
-  <!-- Top Languages -->
+  &nbsp&nbsp
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=sheharanayanananda&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"
     alt="Top Languages"
-    style="flex: 1 1 300px; max-width: 45%; width: 100%; height: auto;"
+    height="200"
   />
-</div>
+</p>
 
 <br>
 
-## 📝 Latest Updates
+## <img src="https://media.giphy.com/media/26xBIygOcC3bAWg1i/giphy.gif" width="30px" height="30px"> 📝 Latest Updates
 
 - **Apr 2025**: Started development on my first Android app "Notes" using Kotlin and Jetpack Compose
 - **Mar 2025**: Temporarily paused Taskify Web App development (planned resumption soon)
@@ -122,20 +123,17 @@ I'm a Full Stack Engineer and Android Developer from Sri Lanka with a passion fo
 
 <br>
 
-## 🎓 Education
+<!--## <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="30px" height="30px"> 🎓 Education
+
 
 - **HND in Computing (Software Engineering)** - ESOFT Metro Campus, Gampaha (2023-2025)
 - **Diploma in Information Technology (DITEC)** - ESOFT Metro Campus, Gampaha (2022-2023)
 - **Diploma in English (DIE)** - ESOFT Metro Campus, Gampaha (2022-2023)
 
-<br>
+<br-->
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sheharanayanananda&color=blueviolet&style=flat-square" alt="Profile views" />
-</div>
-
-<div align="center">
-  <sub>Built with ❤️ by Shehara Nayanananda</sub>
 </div>
