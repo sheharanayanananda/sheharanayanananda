@@ -4,15 +4,65 @@
 
 # <div align="center">Hi There, I'm Shehara Nayanananda 👨🏻‍💻🚀</div>
 
-<!--div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&width=600&lines=Full-Stack+Developer;Android+Enthusiast;Crafting+Beautiful+%26+Functional+Software" alt="Typing SVG" />
-</div-->
-
 <div align="center">
-  <a href="https://linkedin.com/in/thineth-nayanananda-54815b228/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a>
-  <a href="mailto:sheharanayanananda@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="28" alt="Email" /></a>
-  <a href="https://github.com/sheharanayanananda"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" height="28" alt="GitHub" /></a>
+  <a href="https://wa.me/94714624943" title="WhatsApp">
+    <img
+      src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+      alt="WhatsApp"
+      height="28"
+    />
+  </a>
+  <a href="https://facebook.com/yourprofile" title="Facebook">
+    <img
+      src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+      alt="Facebook"
+      height="28"
+    />
+  </a>
+  <a href="https://instagram.com/yourprofile" title="Instagram">
+    <img
+      src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+      height="28"
+    />
+  </a>
+  <a href="https://www.threads.net/@yourprofile" title="Threads">
+    <img
+      src="https://img.shields.io/badge/-Threads-000000?style=for-the-badge&logo=threads&logoColor=white"
+      alt="Threads"
+      height="28"
+    />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile" title="LinkedIn">
+    <img
+      src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+      height="28"
+    />
+  </a>
+  <a href="https://github.com/sheharanayanananda" title="GitHub">
+    <img
+      src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+      height="28"
+    />
+  </a>
+  <a href="https://stackoverflow.com/users/23205547/shehara-nayanananda" title="Stack Overflow">
+    <img
+      src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"
+      alt="Stack Overflow"
+      height="28"
+    />
+  </a>
+  <a href="mailto:sheharanayanananda@gmail.com" title="Gmail">
+    <img
+      src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+      height="28"
+    />
+  </a>
 </div>
+
 
 <br>
 
@@ -62,14 +112,14 @@ I'm a Full Stack Engineer and Android Developer from Sri Lanka with a passion fo
 
 <br>
 
-##🚀 Current Projects
+## 🚀 Current Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Notes App 📝</h3>
       <div align="center">
-        <a href="#" target="_blank"><img src="images/app1.png" alt="Notes App" /></a>
+        <a href="#" target="_blank"><img src="images/1.png" alt="Notes App" /></a>
         <p>
           <a href="#" target="_blank">
             <img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-82D550?style=for-the-badge" alt="In Development"/>
@@ -82,7 +132,7 @@ I'm a Full Stack Engineer and Android Developer from Sri Lanka with a passion fo
     <td width="50%" valign="top">
       <h3 align="center">Taskify Web App ⌛</h3>
       <div align="center">
-        <a href="#" target="_blank"><img src="images/app2.png" alt="Taskify" /></a>
+        <a href="#" target="_blank"><img src="images/2.png" alt="Taskify" /></a>
         <p>
           <a href="#" target="_blank">
             <img src="https://img.shields.io/badge/STATUS-PAUSED-FF6B35?style=for-the-badge" alt="Paused"/>
@@ -97,7 +147,7 @@ I'm a Full Stack Engineer and Android Developer from Sri Lanka with a passion fo
 
 <br>
 
-##❇️ GitHub Analytics
+## ❇️ GitHub Analytics
 
 <p align="center" width="100%">
   <img
@@ -118,14 +168,14 @@ I'm a Full Stack Engineer and Android Developer from Sri Lanka with a passion fo
 ## 🔄 DevLog
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Apr%202025-🚀%20Started%20Notes%20App-blue?style=for-the-badge" alt="Apr 2025" />
-  <img src="https://img.shields.io/badge/Mar%202025-⏸️%20Taskify%20Paused-orange?style=for-the-badge" alt="Mar 2025" />
+  <img src="https://img.shields.io/badge/Apr%202025-🚀%20Started%20Notes%20App-blue?style=for-the-badge" alt="Apr 2025" />&nbsp&nbsp
+  <img src="https://img.shields.io/badge/Mar%202025-⏸️%20Taskify%20Paused-orange?style=for-the-badge" alt="Mar 2025" />&nbsp&nbsp
   <img src="https://img.shields.io/badge/Jan%202025-🎓%20Android%20Training-green?style=for-the-badge" alt="Jan 2025" />
 </p>
 
 <p align="left">
-  <strong>Apr 2025</strong> — Launched development on my first Android app **Notes** using Kotlin & Jetpack Compose.<br/>
-  <strong>Mar 2025</strong> — Temporarily paused **Taskify Web App** (Laravel, Tailwind CSS, MySQL); resuming soon.<br/>
+  <strong>Apr 2025</strong> — Launched development on my first Android app "Notes" using Kotlin & Jetpack Compose.<br><br>
+  <strong>Mar 2025</strong> — Temporarily paused **Taskify Web App** (Laravel, Tailwind CSS, MySQL); resuming soon.<br><br>
   <strong>Jan 2025</strong> — Completed intensive Android Dev training, focusing on UI/UX & MVVM.
 </p>
 
@@ -135,20 +185,20 @@ I'm a Full Stack Engineer and Android Developer from Sri Lanka with a passion fo
 
 <div align="center">
   <img
-    src="images/resume1.png"
+    src="images/3.png"
     alt="Resume Page 1"
     width="45%"
   />
+  &nbsp&nbsp&nbsp
   <img
-    src="images/resume2.png"
+    src="images/4.png"
     alt="Resume Page 2"
     width="45%"
   />
 </div>
-
-<p align="center">
-  📄 <a href="Resume.pdf">Download full PDF</a>
-</p>
+<h3 align="center">
+  📄 <a href="docs/resume.pdf">Download full PDF</a>
+</h3>
 
 ---
 
