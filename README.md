@@ -1,88 +1,157 @@
 <div align="center">
-  <img width="auto" src="/images/banner.png" alt="Banner Image" />
+  <img width="auto" src="images/banner.png" alt="Banner Image" />
 </div>
 
-# Hi There, I'm Shehara Nayanananda 👨🏻‍💻🚀
+# <div align="center">Hi There, I'm Shehara Nayanananda 👨🏻‍💻🚀</div>
 
 <!--div align="center">
-  <a href="https://facebook.com/yourprofile"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="25" alt="Facebook" /></a>
-  <a href="https://instagram.com/yourprofile"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="Instagram" /></a>
-  <a href="https://wa.me/yourwhatsapplink"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="25" alt="WhatsApp" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="Gmail" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&width=600&lines=Full-Stack+Developer;Android+Enthusiast;Crafting+Beautiful+%26+Functional+Software" alt="Typing SVG" />
 </div-->
 
----
-
-## 🚀 Latest Updates
-
-Stay tuned for the latest progress, project releases, and news:
-
-### ✅ Notes App Is Planned To Release In The Mid May 2025. ✅
-### ⭕ Taskify Web App Project Has Postponed Temporarily. But Planed To Resume ASAP. ⭕
-
-- **Apr 2025**: Started to work on my first Android app "Notes". 🚀
-- **Mar 2025**: Postponed Taskify Web App Development For a Short Time Period. 🗄️
-- **Jan 2025**: Learned Android Development including UI & UX Concepts. 👨🏻‍💻
-
----
-
-## 🧠 Code. Learn. Repeat.
-
-Hi, I'm Shehara, an aspiring Android Developer and passionate Full Stack Engineer from Sri Lanka.  
-- 🔭 I’m currently working as a Freelance Web & Android Developer. I just released the first iteration of my **Notes App** built with Kotlin and Jetpack Compose!  
-- 📚 I'm expanding my skills in advanced Android development, mastering database integration, exploring MVVM architecture, and diving into AI engineering with LLMs, RAGs, and model fine-tuning.  
-- ⚡ In my free time, I work on side projects, keep up with emerging tech, and continuously refine my coding skills.  
-
-My mission is to build apps that are simple, beautiful, and solve real problems. Let's build something amazing together! 🚀
-
----
-
-## 📦 My Tech Arsenal
-
-### Web Development 🚀
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" style="margin-left:12px;" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" style="margin-left:12px;" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" style="margin-left:12px;" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel" style="margin-left:12px;" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="TailwindCSS" style="margin-left:12px;" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" style="margin-left:12px;" />
+<div align="center">
+  <a href="https://linkedin.com/in/thineth-nayanananda-54815b228/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a>
+  <a href="mailto:sheharanayanananda@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="28" alt="Email" /></a>
+  <a href="https://github.com/sheharanayanananda"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" height="28" alt="GitHub" /></a>
 </div>
 
-### Android Development 🚀
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Kotlin" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" style="margin-left:12px;" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite" style="margin-left:12px;" />
-</div>
+<br>
 
-### Desktop & Other Development 🚀
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=".NET" style="margin-left:12px;" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" style="margin-left:12px;" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="PyTorch" style="margin-left:12px;" />
-</div>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> About Me
 
-### Other Tools & Tech 🚀
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VSCode" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="Visual Studio" style="margin-left:12px;" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio" style="margin-left:12px;" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" style="margin-left:12px;" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" style="margin-left:12px;" />
-  <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="StackOverflow" style="margin-left:12px;" />
-</div>
+> "Building software that's simple, beautiful, and solves real problems."
 
----
+I'm a Full Stack Engineer and Android Developer from Sri Lanka with a passion for creating intuitive applications and elegant solutions. Currently working as a freelance developer, I navigate between web and mobile development while continuously expanding my knowledge in emerging technologies.
 
-## 📈 GitHub in Numbers
+- 🚀 Currently building **Notes App** (Android) with Kotlin and Jetpack Compose
+- 🌱 Advancing my skills in Android development, MVVM architecture, and AI engineering
+- 💼 Working as a Freelance Web & Android Developer
+- 🎓 HND in Computing (Software Engineering) graduate
+- ⚡ When not coding: Working on side projects and exploring new technologies
+
+<br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px"> Tech Stack
+
+# 🚀 My Tech Stack
+
+## 🎨 Frontend & Design
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+## 🛠️ Backend & Database
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 📱 Mobile Development
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+
+## 🧰 .NET Ecosystem
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+## 🔧 Tools & Version Control
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<br>
+
+## 🚀 Current Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📱 Notes App</h3>
+      <div align="center">
+        <a href="#" target="_blank"><img src="images/notes.png" width="200" alt="Notes App"/></a>
+        <p>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-82D550?style=for-the-badge"/>
+          </a>
+        </p>
+        <p><strong>Kotlin, Jetpack Compose, Room DB</strong> - A modern note-taking application with clean UI and intuitive UX. Expected release: Mid-May 2025.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌐 Taskify Web App</h3>
+      <div align="center">
+        <a href="#" target="_blank"><img src="https://img.icons8.com/bubbles/100/000000/clipboard.png" width="100" alt="Taskify"/></a>
+        <p>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/STATUS-PAUSED-FF6B35?style=for-the-badge"/>
+          </a>
+        </p>
+        <p><strong>Laravel, TailwindCSS, MySQL</strong> - A comprehensive task management web application. Currently on hold, planned to resume ASAP.</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sheharanayanananda&show_icons=true&theme=dracula&hide_border=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sheharanayanananda&layout=compact&langs_count=10&theme=dracula&hide_border=true" height="180" alt="Top Languages" />
+  <table>
+    <tr>
+      <td>
+        <div align="center">
+          <h4>Shehara Nayanananda's GitHub Stats</h4>
+          <ul align="left">
+            <li>🌟 Total Stars Earned: 8</li>
+            <li>🧩 Total Commits (2025): 55</li>
+            <li>📝 Total PRs: 1</li>
+            <li>🔍 Total Issues: 1</li>
+            <li>🤝 Contributed to (last year): 0</li>
+          </ul>
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          <h4>Most Used Languages</h4>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheharanayanananda&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheharanayanananda&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br>
+
+## 📝 Latest Updates
+
+- **Apr 2025**: Started development on my first Android app "Notes" using Kotlin and Jetpack Compose
+- **Mar 2025**: Temporarily paused Taskify Web App development (planned resumption soon)
+- **Jan 2025**: Completed comprehensive training in Android Development with UI/UX principles
+
+<br>
+
+## 🎓 Education
+
+- **HND in Computing (Software Engineering)** - ESOFT Metro Campus, Gampaha (2023-2025)
+- **Diploma in Information Technology (DITEC)** - ESOFT Metro Campus, Gampaha (2022-2023)
+- **Diploma in English (DIE)** - ESOFT Metro Campus, Gampaha (2022-2023)
+
+<br>
+
 ---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sheharanayanananda&color=blueviolet&style=flat-square" alt="Profile views" />
+</div>
+
+<div align="center">
+  <sub>Built with ❤️ by Shehara Nayanananda</sub>
+</div>
