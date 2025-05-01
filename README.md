@@ -5,62 +5,16 @@
 # <div align="center">Hi There, I'm Shehara Nayanananda 👨🏻‍💻🚀</div>
 
 <div align="center">
-  <a href="https://wa.me/94714624943" title="WhatsApp">
-    <img
-      src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
-      alt="WhatsApp"
-      height="28"
-    />
-  </a>
-  <a href="https://facebook.com/yourprofile" title="Facebook">
-    <img
-      src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
-      alt="Facebook"
-      height="28"
-    />
-  </a>
-  <a href="https://instagram.com/yourprofile" title="Instagram">
-    <img
-      src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      alt="Instagram"
-      height="28"
-    />
-  </a>
-  <a href="https://www.threads.net/@yourprofile" title="Threads">
-    <img
-      src="https://img.shields.io/badge/-Threads-000000?style=for-the-badge&logo=threads&logoColor=white"
-      alt="Threads"
-      height="28"
-    />
-  </a>
-  <a href="https://linkedin.com/in/yourprofile" title="LinkedIn">
-    <img
-      src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-      height="28"
-    />
-  </a>
-  <a href="https://github.com/sheharanayanananda" title="GitHub">
-    <img
-      src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-      height="28"
-    />
-  </a>
-  <a href="https://stackoverflow.com/users/23205547/shehara-nayanananda" title="Stack Overflow">
-    <img
-      src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"
-      alt="Stack Overflow"
-      height="28"
-    />
-  </a>
-  <a href="mailto:sheharanayanananda@gmail.com" title="Gmail">
-    <img
-      src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Gmail"
-      height="28"
-    />
-  </a>
+
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94714624943)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/stephen.tanner.dev)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stephen.tanner.dev)
+  [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@stephen.tanner.dev)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thineth-nayanananda-54815b228/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sheharanayanananda/)
+  [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/23205547/shehara-nayanananda)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheharanayanananda@gmail.com)
+
 </div>
 
 
@@ -174,9 +128,9 @@ I'm a Full Stack Engineer and Android Developer from Sri Lanka with a passion fo
 </p>
 
 <p align="left">
-  <strong>Apr 2025</strong> — Launched development on my first Android app "Notes" using Kotlin & Jetpack Compose.<br><br>
-  <strong>Mar 2025</strong> — Temporarily paused **Taskify Web App** (Laravel, Tailwind CSS, MySQL); resuming soon.<br><br>
-  <strong>Jan 2025</strong> — Completed intensive Android Dev training, focusing on UI/UX & MVVM.
+  <strong>Apr 2025</strong> : Launched development on my first Android app "Notes" using Kotlin & Jetpack Compose.<br><br>
+  <strong>Mar 2025</strong> : Temporarily paused **Taskify Web App** (Laravel, Tailwind CSS, MySQL); resuming soon.<br><br>
+  <strong>Jan 2025</strong> : Completed intensive Android Dev training, focusing on UI/UX & MVVM.
 </p>
 
 <br>
@@ -201,7 +155,3 @@ I'm a Full Stack Engineer and Android Developer from Sri Lanka with a passion fo
 </h3>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sheharanayanananda&color=blueviolet&style=flat-square" alt="Profile views" />
-</div>
