@@ -24,7 +24,7 @@
 
 > "Building software that's simple, beautiful, and solves real problems."
 
-I'm a Full Stack Engineer and Android Developer from Sri Lanka with a passion for creating intuitive applications and elegant solutions. Currently working as a freelance developer, I navigate between web and mobile development while continuously expanding my knowledge in emerging technologies.
+I'm a Associate Software Developer at DayZ Solutions and Android Developer from Sri Lanka with a passion for creating intuitive applications and elegant solutions. Currently working as a freelance developer, I navigate between web and mobile development while continuously expanding my knowledge in emerging technologies.
 
 - 🚀 Currently building **Notes App** (Android) with Kotlin and Jetpack Compose
 - 🌱 Advancing my skills in Android development, MVVM architecture, and AI engineering
