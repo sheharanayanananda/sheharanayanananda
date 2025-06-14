@@ -70,7 +70,7 @@ I'm a Associate Software Developer at DayZ Solutions and Android Developer from 
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+<!--     <td width="50%" valign="top">
       <h3 align="center">Notes App 📝</h3>
       <div align="center">
         <a href="#" target="_blank"><img src="images/1.png" alt="Notes App" /></a>
@@ -82,7 +82,7 @@ I'm a Associate Software Developer at DayZ Solutions and Android Developer from 
         <p><strong>Kotlin, Jetpack Compose, Room DB</strong> - A modern notes application with clean UI and intuitive UX.</p>
         <p><strong>Expected release: Mid-May 2025.</strong></p>
       </div>
-    </td>
+    </td> -->
     <td width="50%" valign="top">
       <h3 align="center">Taskify Web App ⌛</h3>
       <div align="center">
