@@ -170,7 +170,7 @@ I'm a Associate Software Developer at DayZ Solutions and Android Developer from 
   />
 </div>
 <h3 align="center">
-  📄 <a href="docs/resume.pdf">Download full PDF</a>
+  📄 <a href="docs/Thineth-Shehara.pdf">Download full PDF</a>
 </h3>
 
 ---
