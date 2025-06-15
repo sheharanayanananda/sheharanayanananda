@@ -80,7 +80,7 @@ I'm a Associate Software Developer at DayZ Solutions and Android Developer from 
 
 <table>
   <tr>
-<!--     <td width="50%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">Notes App 📝</h3>
       <div align="center">
         <a href="#" target="_blank"><img src="images/1.png" alt="Notes App" /></a>
@@ -90,9 +90,9 @@ I'm a Associate Software Developer at DayZ Solutions and Android Developer from 
           </a>
         </p>
         <p><strong>Kotlin, Jetpack Compose, Room DB</strong> - A modern notes application with clean UI and intuitive UX.</p>
-        <p><strong>Expected release: Mid-May 2025.</strong></p>
+<!--         <p><strong>Expected release: Mid-May 2025.</strong></p> -->
       </div>
-    </td> -->
+    </td>
     <td width="50%" valign="top">
       <h3 align="center">Taskify Web App ⌛</h3>
       <div align="center">
@@ -103,7 +103,7 @@ I'm a Associate Software Developer at DayZ Solutions and Android Developer from 
           </a>
         </p>
         <p><strong>Laravel, TailwindCSS, MySQL</strong> - A comprehensive task management web application. Currently on hold, planned to resume ASAP.</p>
-        <p><strong>Expected release: Delayed</strong></p>
+<!--         <p><strong>Expected release: Delayed</strong></p> -->
       </div>
     </td>
   </tr>
@@ -140,8 +140,9 @@ I'm a Associate Software Developer at DayZ Solutions and Android Developer from 
 </p>
 
 <p align="left">
-  <strong>Jun 2025</strong> : Joined DayZ Solutions as an Associate Software Developer, focusing on Laravel & Livewire-based web apps.<br><br>
+  <strong>Jun 2025</strong> : Resumed work on Notes app but will take time to deliver as I have limited free time.<br><br>
   <strong>May 2025</strong> : Temporarily paused development on the Notes App due to workload from my new role.<br><br>
+  <strong>May 2025</strong> : Joined DayZ Solutions as an Associate Software Developer, focusing on Laravel & Livewire-based web apps.<br><br>
   <strong>Apr 2025</strong> : Began building my first Android app – Notes – using Kotlin and Jetpack Compose.<br><br>
   <strong>Mar 2025</strong> : Placed <strong>Taskify Web App</strong> on hold to shift attention to mobile development.<br><br>
   <strong>Jan 2025</strong> : Completed Android development training with focus on UI/UX principles and MVVM architecture.
