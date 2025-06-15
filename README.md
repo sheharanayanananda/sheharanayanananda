@@ -152,19 +152,19 @@ I'm a Associate Software Developer at DayZ Solutions and Android Developer from 
 
 <div align="center">
   <img
-    src="images/cv.png"
+    src="images/resume.png"
     alt="Resume Page 1"
     width="30%"
   />
   &nbsp&nbsp&nbsp
   <img
-    src="images/cv1.png"
+    src="images/resume1.png"
     alt="Resume Page 2"
     width="30%"
   />
   &nbsp&nbsp&nbsp
   <img
-    src="images/cv2.png"
+    src="images/resume2.png"
     alt="Resume Page 3"
     width="30%"
   />
