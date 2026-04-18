@@ -76,41 +76,6 @@ I'm a Associate Software Developer at DayZ Solutions and Android Developer from 
 
 <br>
 
-## 🚀 Current Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Notes App 📝</h3>
-      <div align="center">
-        <a href="#" target="_blank"><img src="images/1.png" alt="Notes App" /></a>
-        <p>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-82D550?style=for-the-badge" alt="In Development"/>
-          </a>
-        </p>
-        <p><strong>Kotlin, Jetpack Compose, Room DB</strong> - A modern notes application with clean UI and intuitive UX.</p>
-<!--         <p><strong>Expected release: Mid-May 2025.</strong></p> -->
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Taskify Web App ⌛</h3>
-      <div align="center">
-        <a href="#" target="_blank"><img src="images/2.png" alt="Taskify" /></a>
-        <p>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/STATUS-PAUSED-FF6B35?style=for-the-badge" alt="Paused"/>
-          </a>
-        </p>
-        <p><strong>Laravel, TailwindCSS, MySQL</strong> - A comprehensive task management web application. Currently on hold, planned to resume ASAP.</p>
-<!--         <p><strong>Expected release: Delayed</strong></p> -->
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br>
-
 ## ❇️ GitHub Analytics
 
 <p align="center" width="100%">
