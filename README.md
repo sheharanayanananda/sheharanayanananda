@@ -49,7 +49,7 @@ I'm a Software Engineer with a proven track record of designing and delivering s
 <table width="100%">
   <tr>
     <td width="28%"><strong>Associate Software Engineer</strong><br><sub>DayZ Solutions (Pvt.) Ltd.</sub><br><sub>05/2025 - Present</sub></td>
-    <td>
+    <td width="72%">
       <strong>Deurbeslag Gigant – Lead Engineer</strong><br>
       Leading V1 stability and secure backend delivery for a centralized e-commerce inventory management platform. Designing V2 with Filament tables and a unified Flux UI design system for a multi-tenant version.<br>
       <sub>PHP / Laravel / Livewire / Alpine JS / Tailwind CSS / MySQL / REST APIs / Bitbucket</sub>
@@ -61,7 +61,7 @@ I'm a Software Engineer with a proven track record of designing and delivering s
   </tr>
   <tr>
     <td width="28%"><strong>Software Engineer</strong><br><sub>Freelance</sub><br><sub>01/2026 - Present</sub></td>
-    <td>
+    <td width="72%">
       <strong>UNiFY – Multi‑Feature Sports Ecosystem</strong><br>
       Mobile and backend developer on a multi-platform sports app. Stabilizing, refactoring, and extending a Flutter app and Python/Flask API with real-time features, WebSockets, media streaming, and NFC integration.<br>
       <sub>Flutter / Dart / Provider / go_router / WebSockets / Python / Flask / PostgreSQL / Redis / AWS / Stripe</sub>
@@ -69,7 +69,7 @@ I'm a Software Engineer with a proven track record of designing and delivering s
   </tr>
   <tr>
     <td width="28%"><strong>Web Developer</strong><br><sub>Freelance</sub><br><sub>10/2022 - 06/2025</sub></td>
-    <td>
+    <td width="72%">
       <strong>Custom Web Solutions & Portfolio Development</strong><br>
       Delivered full-stack solutions including business websites for consultancy firms (Bright Achievers) and dynamic photography portfolios with custom admin panels.<br>
       <sub>PHP / Laravel / MySQL / Tailwind CSS / JavaScript / GitHub</sub>
@@ -77,7 +77,7 @@ I'm a Software Engineer with a proven track record of designing and delivering s
   </tr>
   <tr>
     <td width="28%"><strong>C# Developer</strong><br><sub>Freelance</sub><br><sub>08/2023 - 05/2025</sub></td>
-    <td>
+    <td width="72%">
       <strong>Inventory & Supermarket Management Systems</strong><br>
       Engineered custom inventory systems for pharmacies and supermarkets, including cashier systems connected to a unified SQL database for real-time accuracy.<br>
       <sub>C# / .NET Framework / SQL / Git</sub>
@@ -90,7 +90,7 @@ I'm a Software Engineer with a proven track record of designing and delivering s
 <table width="100%">
   <tr>
     <td width="28%"><strong>02/2023 - 02/2025</strong><br><sub>Gampaha, Sri Lanka</sub></td>
-    <td>
+    <td width="72%">
       <strong>Pearson BTEC Level 5 HND in Computing - Software Engineering</strong><br>
       ESOFT Metro Campus - Gampaha<br>
       <sub>Ofqual-regulated qualification QN 603/7596/6</sub>
@@ -98,7 +98,7 @@ I'm a Software Engineer with a proven track record of designing and delivering s
   </tr>
   <tr>
     <td width="28%"><strong>07/2022 - 08/2023</strong><br><sub>Gampaha, Sri Lanka</sub></td>
-    <td>
+    <td width="72%">
       <strong>Pearson Assured Level 3 Diploma in Information Technology (DiTEC)</strong><br>
       ESOFT Metro Campus - Gampaha<br>
       <sub>Pearson Assured programme: Pearson ID SF96401, ESOFT ID E176422</sub>
@@ -106,7 +106,7 @@ I'm a Software Engineer with a proven track record of designing and delivering s
   </tr>
   <tr>
     <td width="28%"><strong>07/2022 - 08/2023</strong><br><sub>Gampaha, Sri Lanka</sub></td>
-    <td>
+    <td width="72%">
       <strong>Assured Level 3 Diploma in English (DiE)</strong><br>
       ESOFT Metro Campus - Gampaha<br>
       <sub>ESOFT ID E176422, Ref. GAM0170214, REG ID 00148929</sub>
@@ -114,7 +114,7 @@ I'm a Software Engineer with a proven track record of designing and delivering s
   </tr>
   <tr>
     <td width="28%"><strong>2022</strong><br><sub>Gampaha, Sri Lanka</sub></td>
-    <td>
+    <td width="72%">
       <strong>General Certificate of Education Ordinary Level Exam</strong><br>
       Henegama Central College - National School<br>
       <sub></sub>
