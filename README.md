@@ -46,7 +46,7 @@ I'm a Software Engineer with a proven track record of designing and delivering s
 
 ## Work
 
-<table>
+<table width="100%">
   <tr>
     <td width="28%"><strong>Associate Software Engineer</strong><br><sub>DayZ Solutions (Pvt.) Ltd.</sub><br><sub>05/2025 - Present</sub></td>
     <td>
@@ -87,7 +87,7 @@ I'm a Software Engineer with a proven track record of designing and delivering s
 
 ## Education
 
-<table>
+<table width="100%">
   <tr>
     <td width="28%"><strong>02/2023 - 02/2025</strong><br><sub>Gampaha, Sri Lanka</sub></td>
     <td>
