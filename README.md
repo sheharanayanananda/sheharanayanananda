@@ -101,7 +101,7 @@ I'm a Software Engineer with a proven track record of designing and delivering s
     <td>
       <strong>Pearson Assured Level 3 Diploma in Information Technology (DiTEC)</strong><br>
       ESOFT Metro Campus - Gampaha<br>
-      <sub>Overall grade: Merit / 1,200-hour programme covering software engineering, Python, SQL, C#, web design, networking, and multimedia</sub>
+      <sub>Pearson Assured programme: Pearson ID SF96401, ESOFT ID E176422</sub>
     </td>
   </tr>
   <tr>
@@ -109,7 +109,7 @@ I'm a Software Engineer with a proven track record of designing and delivering s
     <td>
       <strong>Assured Level 3 Diploma in English (DiE)</strong><br>
       ESOFT Metro Campus - Gampaha<br>
-      <sub>Result: Pass / communicative English, presentations, writing, listening, speaking, and viva assessments</sub>
+      <sub>ESOFT ID E176422, Ref. GAM0170214, REG ID 00148929</sub>
     </td>
   </tr>
   <tr>
@@ -117,7 +117,7 @@ I'm a Software Engineer with a proven track record of designing and delivering s
     <td>
       <strong>General Certificate of Education Ordinary Level Exam</strong><br>
       Henegama Central College - National School<br>
-      <sub>Strong results including A passes in ICT and English</sub>
+      <sub></sub>
     </td>
   </tr>
 </table>
