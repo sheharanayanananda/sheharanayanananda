@@ -6,21 +6,11 @@
 </p>
 
 <p align="center">
-  <a href="mailto:sheharanayanananda@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/thineth-nayanananda-54815b228/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Glassdoor-0CAA41?style=flat&logo=glassdoor&logoColor=white" alt="Glassdoor" />
-  </a>
-  <a href="https://stackoverflow.com/users/23205547/shehara-nayanananda">
-    <img src="https://img.shields.io/badge/Stack_Overflow-F48024?style=flat&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
-  </a>
-  <a href="docs/Thineth-Shehara.pdf">
-    <img src="https://img.shields.io/badge/Resume-EB212E?style=flat&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" />
-  </a>
+  <a href="mailto:sheharanayanananda@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/thineth-nayanananda-54815b228/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Glassdoor-0CAA41?style=flat&logo=glassdoor&logoColor=white" alt="Glassdoor" /></a>
+  <a href="https://stackoverflow.com/users/23205547/shehara-nayanananda"><img src="https://img.shields.io/badge/Stack_Overflow-F48024?style=flat&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="docs/Thineth-Shehara.pdf"><img src="https://img.shields.io/badge/Resume-EB212E?style=flat&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" /></a>
 </p>
 
 ---
