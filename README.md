@@ -116,8 +116,9 @@ Currently working at DayZ Solutions while freelancing remotely. Beginning my **B
       <strong><a href="https://github.com/sheharanayanananda/Slate">Slate</a></strong> &nbsp;
       <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
       <img src="https://img.shields.io/badge/SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
+      <img src="https://img.shields.io/badge/SwiftData-F05138?style=flat-square&logo=swift&logoColor=white" alt="SwiftData" />
       <br>
-      Aesthetic iOS note-taking app built with SwiftUI. Multi-tab navigation, spring animations, minimalist design system, and a presentation sheet-based note creation flow.
+      Modern iOS notes application built with Swift, SwiftUI, and SwiftData. Features a custom rich-text editor (RTF), PDF/RTF note sharing, and Smart Lense—an integrated camera AI utility using Gemma 3 to generate structured notes from visual contexts.
     </td>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/sheharanayanananda/ECore-Flutter">ECore Mobile</a></strong> 🔒 &nbsp;
