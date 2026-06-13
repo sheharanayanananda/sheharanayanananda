@@ -27,43 +27,11 @@ Currently working at DayZ Solutions while freelancing remotely. Beginning my **B
 
 ## Tech Stack
 
-**Backend & Web**
+<div align="center">
 
-[![PHP](https://img.shields.io/badge/PHP-7C3AED?style=for-the-badge&logo=php&logoColor=white)](https://php.net)&nbsp;
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)&nbsp;
-[![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white)](https://livewire.laravel.com)&nbsp;
-[![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white)](#)&nbsp;
-[![Python](https://img.shields.io/badge/Python-F7C948?style=for-the-badge&logo=python&logoColor=black)](https://python.org)&nbsp;
-[![Flask](https://img.shields.io/badge/Flask-00B4D8?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
+[![Swift & SwiftUI](https://img.shields.io/badge/Swift%20%26%20SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)&nbsp;&nbsp;[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)&nbsp;&nbsp;[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)&nbsp;&nbsp;[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)&nbsp;&nbsp;[![PHP](https://img.shields.io/badge/PHP-7C3AED?style=for-the-badge&logo=php&logoColor=white)](https://php.net)&nbsp;&nbsp;[![Python](https://img.shields.io/badge/Python-F7C948?style=for-the-badge&logo=python&logoColor=black)](https://python.org)&nbsp;&nbsp;[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)<br>[![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white)](#)&nbsp;&nbsp;[![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white)](https://livewire.laravel.com)&nbsp;&nbsp;[![Flask](https://img.shields.io/badge/Flask-00B4D8?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com)&nbsp;&nbsp;[![Next.js](https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=nextdotjs&logoColor=black)](https://nextjs.org)&nbsp;&nbsp;[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)&nbsp;&nbsp;[![Alpine.js](https://img.shields.io/badge/Alpine.js-36A2EB?style=for-the-badge&logo=alpinedotjs&logoColor=white)](https://alpinejs.dev)&nbsp;&nbsp;[![UI & UX](https://img.shields.io/badge/UI%20%26%20UX-FF3CAC?style=for-the-badge&logo=figma&logoColor=white)](#)&nbsp;&nbsp;[![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)](#)&nbsp;&nbsp;[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](#)<br>[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](#)&nbsp;&nbsp;[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)&nbsp;&nbsp;[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](#)&nbsp;&nbsp;[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sheharanayanananda)&nbsp;&nbsp;[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](#)&nbsp;&nbsp;[![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)](#)
 
-**Frontend**
-
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)&nbsp;
-[![Next.js](https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=nextdotjs&logoColor=black)](https://nextjs.org)&nbsp;
-[![Alpine.js](https://img.shields.io/badge/Alpine.js-36A2EB?style=for-the-badge&logo=alpinedotjs&logoColor=white)](https://alpinejs.dev)&nbsp;
-[![UI & UX](https://img.shields.io/badge/UI%20%26%20UX-FF3CAC?style=for-the-badge&logo=figma&logoColor=white)](#)
-
-**Mobile**
-
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)&nbsp;
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)&nbsp;
-[![Swift & SwiftUI](https://img.shields.io/badge/Swift%20%26%20SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)&nbsp;
-[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
-
-**Databases & Infrastructure**
-
-[![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)](#)&nbsp;
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](#)&nbsp;
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](#)&nbsp;
-[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](#)&nbsp;
-[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
-
-**Version Control**
-
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sheharanayanananda)&nbsp;
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](#)&nbsp;
-[![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)](#)
+</div>
 
 ---
 
@@ -73,7 +41,10 @@ Currently working at DayZ Solutions while freelancing remotely. Beginning my **B
 
 <img src="https://github-readme-stats.vercel.app/api?username=sheharanayanananda&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165" alt="GitHub Stats" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheharanayanananda&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com/?user=sheharanayanananda&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+
+<br><br>
+<img src="images/github-contribution-calendar.svg" alt="GitHub Contribution Calendar" />
 
 </div>
 
@@ -143,12 +114,21 @@ Currently working at DayZ Solutions while freelancing remotely. Beginning my **B
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <strong><a href="https://github.com/sheharanayanananda/Notes-iOS-App">Notes — iOS</a></strong> &nbsp;
+      <strong><a href="https://github.com/sheharanayanananda/Slate">Slate</a></strong> &nbsp;
       <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
       <img src="https://img.shields.io/badge/SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
       <br>
       Aesthetic iOS note-taking app built with SwiftUI. Multi-tab navigation, spring animations, minimalist design system, and a presentation sheet-based note creation flow.
     </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/sheharanayanananda/ECore-Flutter">ECore Mobile</a></strong> 🔒 &nbsp;
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+      <br>
+      Commercial company automation mobile interface for BetonStorten.nl. Displays data, allows actions like order creation, status updates, etc., while business logic remains in the web platform. <i>(Private repository)</i>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/sheharanayanananda/TaskFlow">TaskFlow</a></strong> &nbsp;
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
@@ -156,48 +136,41 @@ Currently working at DayZ Solutions while freelancing remotely. Beginning my **B
       <br>
       Modern task management web app with auth, CRUD, and full task organization by status, priority, due date, and category.
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/sheharanayanananda/BAMC_Website">BAMC Website</a></strong> &nbsp;
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-      <img src="https://img.shields.io/badge/PHP-7C3AED?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
       <br>
-      Full-stack website for <strong>Bright Achievers Migration & Consultancy</strong> — a real Sri Lankan consultancy firm. Client inquiry management, responsive UI, and operational workflows.
+      Frontend website for <strong>Bright Achievers Migration & Consultancy</strong> — a real Sri Lankan consultancy firm. Custom UI/UX, responsive design, and client inquiry forms.
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/sheharanayanananda/Malcolm-Lismore">Malcolm-Lismore</a></strong> &nbsp;
       <img src="https://img.shields.io/badge/PHP-7C3AED?style=flat-square&logo=php&logoColor=white" alt="PHP" />
       <br>
       Full-stack responsive website with a PHP backend. Covers front-end design, server-side logic, and dynamic content delivery.
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/sheharanayanananda/Notes">Notes — Android</a></strong> &nbsp;
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
       <br>
       Android note-taking app built with Jetpack Compose and Room Database. Clean MVVM architecture with an aesthetic, minimal UI.
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/sheharanayanananda/Voice_Assistant">Voice Assistant</a></strong> &nbsp;
       <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
       <br>
       Desktop voice command app using .NET speech synthesis and recognition. Responds to natural language voice inputs with system actions.
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/sheharanayanananda/Quiet-Attic-Films">Quiet Attic Films</a></strong> &nbsp;
       <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
       <br>
       Database management system for a film production company built with C# Windows Forms and SQL Server. Full CRUD with relational data management.
-    </td>
-    <td width="50%" valign="top">
-      <strong><a href="https://github.com/sheharanayanananda/Portfolio">Portfolio</a></strong> &nbsp;
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
-      <br>
-      A clean developer portfolio template designed as a reference for showcasing projects to employers with a modern, responsive layout.
     </td>
   </tr>
 </table>
