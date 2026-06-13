@@ -279,5 +279,5 @@ Currently working at DayZ Solutions while freelancing remotely. Beginning my **B
 ---
 
 <div align="center">
-  <sub>Building useful software with clean interfaces, strong foundations, and room to scale.</sub>
+  <sub>Building secure, scalable, and user-centric software with clean architectures.</sub>
 </div>
