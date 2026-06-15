@@ -42,9 +42,6 @@ Currently working at DayZ Solutions while freelancing remotely. Beginning my **B
 &nbsp;&nbsp;
 <img src="https://streak-stats.demolab.com/?user=sheharanayanananda&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
 
-<br><br>
-<img src="images/github-contribution-calendar.svg" alt="GitHub Contribution Calendar" />
-
 </div>
 
 ---
