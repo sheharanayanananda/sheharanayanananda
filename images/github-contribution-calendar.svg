@@ -44,7 +44,7 @@
     .contrib-day[data-level="3"] { fill: var(--color-calendar-graph-day-L3-bg); }
     .contrib-day[data-level="4"] { fill: var(--color-calendar-graph-day-L4-bg); }
   </style>
-  <text x="35" y="18" class="contrib-text">34 contributions in the last year</text>
+  <text x="35" y="18" class="contrib-text">35 contributions in the last year</text>
   <text x="35" y="30" class="contrib-text-muted">Jun</text>
   <text x="74" y="30" class="contrib-text-muted">Jul</text>
   <text x="126" y="30" class="contrib-text-muted">Aug</text>
@@ -166,7 +166,7 @@
   <rect x="672" y="48" class="contrib-day" data-level="0" data-date="2026-05-25"><title>2026-05-25: level 0</title></rect>
   <rect x="685" y="48" class="contrib-day" data-level="0" data-date="2026-06-01"><title>2026-06-01: level 0</title></rect>
   <rect x="698" y="48" class="contrib-day" data-level="0" data-date="2026-06-08"><title>2026-06-08: level 0</title></rect>
-  <rect x="711" y="48" class="contrib-day" data-level="0" data-date="2026-06-15"><title>2026-06-15: level 0</title></rect>
+  <rect x="711" y="48" class="contrib-day" data-level="1" data-date="2026-06-15"><title>2026-06-15: level 1</title></rect>
   <rect x="35" y="61" class="contrib-day" data-level="0" data-date="2025-06-17"><title>2025-06-17: level 0</title></rect>
   <rect x="48" y="61" class="contrib-day" data-level="0" data-date="2025-06-24"><title>2025-06-24: level 0</title></rect>
   <rect x="61" y="61" class="contrib-day" data-level="0" data-date="2025-07-01"><title>2025-07-01: level 0</title></rect>
