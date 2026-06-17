@@ -38,8 +38,8 @@ Currently working at DayZ Solutions while freelancing remotely. Beginning my **B
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sheharanayanananda&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165" alt="GitHub Stats" />
-&nbsp;&nbsp;
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=sheharanayanananda&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165" alt="GitHub Stats" />
+&nbsp;&nbsp; -->
 <img src="https://streak-stats.demolab.com/?user=sheharanayanananda&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
 
 </div>
