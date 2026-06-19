@@ -69,7 +69,7 @@ Currently working at DayZ Solutions while freelancing remotely. Beginning my **B
     <td width="26%" valign="top">
       <strong>Software Engineer</strong><br>
       <sub>Freelance</sub><br>
-      <sub>01/2026 – Present · Remote (US Client)</sub>
+      <sub>01/2026 – Present · Remote</sub>
     </td>
     <td width="74%" valign="top">
       <strong>UNiFY — Multi-Feature Sports Ecosystem</strong><br>
