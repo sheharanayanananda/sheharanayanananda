@@ -47,7 +47,11 @@ Currently working at DayZ Solutions while freelancing remotely. Beginning my **B
 <img src="https://streak-stats.demolab.com/?user=sheharanayanananda&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
 
 <br><br>
-<img src="https://ghchart.rshah.org/sheharanayanananda" alt="sheharanayanananda's Github Chart" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sheharanayanananda/sheharanayanananda/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sheharanayanananda/sheharanayanananda/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake Game" src="https://raw.githubusercontent.com/sheharanayanananda/sheharanayanananda/output/github-snake.svg" width="100%" />
+</picture>
 
 </div>
 
