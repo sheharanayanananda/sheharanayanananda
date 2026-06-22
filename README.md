@@ -110,6 +110,14 @@ Currently working at DayZ Solutions while freelancing remotely. Beginning my **B
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
+      <strong><a href="https://github.com/sheharanayanananda/Slate-V2">Slate V2</a></strong> 🔒 &nbsp;
+      <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+      <img src="https://img.shields.io/badge/SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
+      <img src="https://img.shields.io/badge/SwiftData-F05138?style=flat-square&logo=swift&logoColor=white" alt="SwiftData" />
+      <br>
+      Successor of Slate. Next-generation iOS notes app featuring an autonomous, context-aware AI Agent ecosystem with deep multi-model reasoning presets, cross-platform integrations (Gmail/Slack), high-fidelity markdown & LaTeX, and custom liquid physics.
+    </td>
+    <td width="50%" valign="top">
       <strong><a href="https://github.com/sheharanayanananda/Slate">Slate</a></strong> &nbsp;
       <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
       <img src="https://img.shields.io/badge/SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
@@ -117,6 +125,8 @@ Currently working at DayZ Solutions while freelancing remotely. Beginning my **B
       <br>
       Modern iOS notes application built with Swift, SwiftUI, and SwiftData. Features a custom rich-text editor (RTF), PDF/RTF note sharing, and Smart Lense—an integrated camera AI utility using Gemma 3 to generate structured notes from visual contexts.
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/sheharanayanananda/ECore-Flutter">ECore Mobile</a></strong> 🔒 &nbsp;
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
@@ -124,8 +134,6 @@ Currently working at DayZ Solutions while freelancing remotely. Beginning my **B
       <br>
       Commercial company automation mobile interface for BetonStorten.nl. Displays data, allows actions like order creation, status updates, etc., while business logic remains in the web platform. <i>(Private repository)</i>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/sheharanayanananda/TaskFlow">TaskFlow</a></strong> &nbsp;
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
@@ -133,6 +141,8 @@ Currently working at DayZ Solutions while freelancing remotely. Beginning my **B
       <br>
       Modern task management web app with auth, CRUD, and full task organization by status, priority, due date, and category.
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/sheharanayanananda/BAMC_Website">BAMC Website</a></strong> &nbsp;
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
@@ -141,33 +151,35 @@ Currently working at DayZ Solutions while freelancing remotely. Beginning my **B
       <br>
       Frontend website for <strong>Bright Achievers Migration & Consultancy</strong> — a real Sri Lankan consultancy firm. Custom UI/UX, responsive design, and client inquiry forms.
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/sheharanayanananda/Malcolm-Lismore">Malcolm-Lismore</a></strong> &nbsp;
       <img src="https://img.shields.io/badge/PHP-7C3AED?style=flat-square&logo=php&logoColor=white" alt="PHP" />
       <br>
       Full-stack responsive website with a PHP backend. Covers front-end design, server-side logic, and dynamic content delivery.
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/sheharanayanananda/Notes">Notes — Android</a></strong> &nbsp;
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
       <br>
       Android note-taking app built with Jetpack Compose and Room Database. Clean MVVM architecture with an aesthetic, minimal UI.
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/sheharanayanananda/Voice_Assistant">Voice Assistant</a></strong> &nbsp;
       <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
       <br>
       Desktop voice command app using .NET speech synthesis and recognition. Responds to natural language voice inputs with system actions.
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/sheharanayanananda/Quiet-Attic-Films">Quiet Attic Films</a></strong> &nbsp;
       <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
       <br>
       Database management system for a film production company built with C# Windows Forms and SQL Server. Full CRUD with relational data management.
+    </td>
+    <td width="50%" valign="top">
     </td>
   </tr>
 </table>
