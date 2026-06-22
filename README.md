@@ -8,13 +8,12 @@ Full-stack web and mobile engineer · Laravel · Flutter · Swift · Python
 
 <br>
 
+[![GitHub Followers](https://img.shields.io/github/followers/sheharanayanananda?style=for-the-badge&logo=github&logoColor=white&color=24292F)](https://github.com/sheharanayanananda?tab=followers)&nbsp;
+[![Views](https://api.visitorbadge.io/api/visitors?path=sheharanayanananda&style=for-the-badge&label=VIEWS&labelColor=%23555555&countColor=%2324292F)](#)
+
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheharanayanananda@gmail.com)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thineth-nayanananda-54815b228/)&nbsp;
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/23205547/shehara-nayanananda)&nbsp;
-[![GitHub Followers](https://img.shields.io/github/followers/sheharanayanananda?style=for-the-badge&logo=github&logoColor=white&color=24292F)](https://github.com/sheharanayanananda?tab=followers)&nbsp;
-[![Views](https://api.visitorbadge.io/api/visitors?path=sheharanayanananda&style=for-the-badge&label=VIEWS&labelColor=%23555555&countColor=%2324292F)](#)&nbsp;
-[![Location](https://img.shields.io/badge/Location-Sri%20Lanka-005A9C?style=for-the-badge&logo=googlemaps&logoColor=white)](#)&nbsp;
-[![IELTS](https://img.shields.io/badge/IELTS-8.0-008080?style=for-the-badge&logo=education&logoColor=white)](#)
 
 </div>
 
@@ -45,14 +44,6 @@ Currently working at DayZ Solutions while freelancing remotely. Beginning my **B
 <img src="https://github-readme-stats.vercel.app/api?username=sheharanayanananda&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165" alt="GitHub Stats" />
 &nbsp;&nbsp;
 <img src="https://streak-stats.demolab.com/?user=sheharanayanananda&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
-
-<br><br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sheharanayanananda/sheharanayanananda/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sheharanayanananda/sheharanayanananda/output/github-snake.svg" />
-  <img alt="GitHub Contribution Snake Game" src="https://raw.githubusercontent.com/sheharanayanananda/sheharanayanananda/output/github-snake.svg" width="100%" />
-</picture>
-
 </div>
 
 ---
