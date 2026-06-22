@@ -115,7 +115,8 @@ Currently working at DayZ Solutions while freelancing remotely. Beginning my **B
       <img src="https://img.shields.io/badge/SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
       <img src="https://img.shields.io/badge/SwiftData-F05138?style=flat-square&logo=swift&logoColor=white" alt="SwiftData" />
       <br>
-      Successor of Slate. Next-generation iOS notes app featuring an autonomous, context-aware AI Agent ecosystem with deep multi-model reasoning presets, cross-platform integrations (Gmail/Slack), high-fidelity markdown & LaTeX, and custom liquid physics.
+      Successor of Slate. Next-generation iOS notes app featuring a new way of using notes, on the way... Stay Tuned!
+      <!-- Successor of Slate. Next-generation iOS notes app featuring an autonomous, context-aware AI Agent ecosystem with deep multi-model reasoning presets, cross-platform integrations (Gmail/Slack), high-fidelity markdown & LaTeX, and custom liquid physics. -->
     </td>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/sheharanayanananda/Slate">Slate</a></strong> &nbsp;
