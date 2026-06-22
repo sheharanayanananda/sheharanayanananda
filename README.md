@@ -46,20 +46,12 @@ Currently working at DayZ Solutions while freelancing remotely. Beginning my **B
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sheharanayanananda&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 
 <br>
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sheharanayanananda&theme=tokyonight&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheharanayanananda&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" /></a>
 
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sheharanayanananda&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
-
-<br><br>
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsheharanayanananda&count_bg=%252370a5fd&title_bg=%2523555555&icon=&icon_color=%2523E7E7E7&title=views&edge_flat=false)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=sheharanayanananda.sheharanayanananda" alt="Visitors" />
 &nbsp;&nbsp;
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sheharanayanananda.sheharanayanananda)
-
-<br><br>
-[![Followers](https://img.shields.io/github/followers/sheharanayanananda?style=flat-square&logo=github&color=70a5fd)](https://github.com/sheharanayanananda?tab=followers)
-&nbsp;&nbsp;
-[![Total Stars](https://img.shields.io/github/stars-of-user/sheharanayanananda?style=flat-square&logo=github&color=70a5fd)](https://github.com/sheharanayanananda?tab=repositories)
+<a href="https://github.com/sheharanayanananda?tab=followers"><img src="https://img.shields.io/github/followers/sheharanayanananda?style=flat-square&logo=github&color=70a5fd" alt="Followers" /></a>
 
 </div>
 
