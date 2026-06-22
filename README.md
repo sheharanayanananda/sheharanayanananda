@@ -10,7 +10,11 @@ Full-stack web and mobile engineer · Laravel · Flutter · Swift · Python
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheharanayanananda@gmail.com)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thineth-nayanananda-54815b228/)&nbsp;
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/23205547/shehara-nayanananda)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/23205547/shehara-nayanananda)&nbsp;
+[![GitHub Followers](https://img.shields.io/github/followers/sheharanayanananda?style=for-the-badge&logo=github&logoColor=white&color=24292F)](https://github.com/sheharanayanananda?tab=followers)&nbsp;
+[![Views](https://api.visitorbadge.io/api/visitors?path=sheharanayanananda&style=for-the-badge&label=VIEWS&labelColor=%23555555&countColor=%2324292F)](#)&nbsp;
+[![Location](https://img.shields.io/badge/Location-Sri%20Lanka-005A9C?style=for-the-badge&logo=googlemaps&logoColor=white)](#)&nbsp;
+[![IELTS](https://img.shields.io/badge/IELTS-8.0-008080?style=for-the-badge&logo=education&logoColor=white)](#)
 
 </div>
 
@@ -43,15 +47,7 @@ Currently working at DayZ Solutions while freelancing remotely. Beginning my **B
 <img src="https://streak-stats.demolab.com/?user=sheharanayanananda&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
 
 <br><br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sheharanayanananda&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Activity Graph" />
-
-<br>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheharanayanananda&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" /></a>
-
-<br><br>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=sheharanayanananda.sheharanayanananda" alt="Visitors" />
-&nbsp;&nbsp;
-<a href="https://github.com/sheharanayanananda?tab=followers"><img src="https://img.shields.io/github/followers/sheharanayanananda?style=flat-square&logo=github&color=70a5fd" alt="Followers" /></a>
+<img src="https://ghchart.rshah.org/sheharanayanananda" alt="sheharanayanananda's Github Chart" />
 
 </div>
 
