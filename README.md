@@ -1,6 +1,6 @@
 <div align="center">
 
-# Thineth Shehara Nayanananda
+# Thineth Shehara
 
 **Associate Software Engineer · Freelancer**
 
@@ -8,12 +8,12 @@ Full-stack web and mobile engineer · Laravel · Flutter · Swift · Python
 
 <br>
 
-[![GitHub Followers](https://img.shields.io/github/followers/sheharanayanananda?style=for-the-badge&logo=github&logoColor=white&color=24292F)](https://github.com/sheharanayanananda?tab=followers)&nbsp;
-[![Views](https://api.visitorbadge.io/api/visitors?path=sheharanayanananda&style=for-the-badge&label=VIEWS&labelColor=%23555555&countColor=%2324292F)](#)
-
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheharanayanananda@gmail.com)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thineth-nayanananda-54815b228/)&nbsp;
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/23205547/shehara-nayanananda)&nbsp;
+
+[![GitHub Followers](https://img.shields.io/github/followers/sheharanayanananda?style=for-the-badge&logo=github&logoColor=white&color=24292F)](https://github.com/sheharanayanananda?tab=followers)&nbsp;
+[![Views](https://api.visitorbadge.io/api/visitors?path=sheharanayanananda&style=for-the-badge&label=VIEWS&labelColor=%23555555&countColor=%2324292F)](#)
 
 </div>
 
