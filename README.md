@@ -41,35 +41,46 @@ Currently working as a Freelance Software Engineer for international clients (Up
 
 </div>
 
----
+## Featured Project: Slate — Notes, but Intelligent
 
-## Featured Project: Slate - iOS Note-Taking Ecosystem
-
-[Slate](https://github.com/sheharanayanananda/Slate) is a modern iOS note-taking ecosystem built with **Swift, SwiftUI, and SwiftData**, offering two entirely different architectural approaches for the application:
+[Slate](https://github.com/sheharanayanananda/Slate) is a high-performance iOS note-taking ecosystem built with **Swift, SwiftUI, and SwiftData**, showcasing two completely different architectural approaches to personal knowledge bases:
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <strong>🎨 Slate Origin</strong><br>
-      <em>The core local-first SwiftUI experience.</em>
+    <td width="50%" valign="top" style="padding: 16px;">
+      <h3 align="center">🎨 Slate Origin</h3>
+      <p align="center"><em>"Take notes without hassle"</em></p>
+      <hr>
+      <strong>🛠️ Core Focus:</strong> Local-first note management, fluid native performance, and offline-first data safety.<br><br>
+      <strong>Tech Stack:</strong><br>
+      <code>Swift</code> · <code>SwiftUI</code> · <code>SwiftData</code> · <code>Ollama Cloud Models</code> · <code>RTF Engine</code><br><br>
+      <strong>Special Features:</strong>
       <ul>
-        <li><strong>Features:</strong> Custom Rich Text Format (RTF) engine, native text view canvas, note lists, PDF/RTF sharing, and local data persistence via SwiftData.</li>
-        <li><strong>Smart Lense:</strong> Integrated camera utility using Gemma 3 model prompts to analyze images and generate structured markdown notes instantly.</li>
-        <li><strong>Architecture:</strong> Strict MVVM model separating SwiftUI views, SwiftData models, and hardware integrations.</li>
+        <li><strong>Rich Text Format (RTF) Engine:</strong> Custom native text views rendering rich layouts at 60 FPS.</li>
+        <li><strong>Smart Lense:</strong> Camera AI utility utilizing the Google Gemma 3 model hosted on Ollama cloud to capture and structure physical document snapshots into organized digital markdown notes.</li>
+        <li><strong>Local Persistence:</strong> Safe, local-first database modeling using SwiftData with background synchronization.</li>
+        <li><strong>Notes Sharing:</strong> Supports sharing notes in multiple formats, including RTF and PDF.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <strong>🧠 Slate Agentic</strong><br>
-      <em>Next-generation autonomous knowledge engine (Source-Available).</em>
+    <td width="50%" valign="top" style="padding: 16px;">
+      <h3 align="center">Slate Agentic</h3>
+      <p align="center"><em>"Revolutionize the way you take notes"</em></p>
+      <hr>
+      <strong>Core Focus:</strong> Natural language actions, context-aware document synthesis, and seamless AI interactions.<br><br>
+      <strong>Tech Stack:</strong><br>
+      <code>Ollama Cloud Models</code> · <code>Combine</code> · <code>MathJax</code> · <code>Haptic Feedback API</code> · <code>ZIP/Document Parser</code><br><br>
+      <strong>Special Features:</strong>
       <ul>
-        <li><strong>AI Agent Command Center:</strong> Central chat command deck powered by Ollama to query notes, summarize attachments, and automate complex developer workflows in the background.</li>
-        <li><strong>Dynamic Physics UI:</strong> Capsule floating input layout utilizing custom horizontal/vertical drag-stretching animations and spring dynamics with soft-to-rigid haptic feedback.</li>
-        <li><strong>Markdown & Math Rendering:</strong> Implemented high-performance Markdown parsing and inline/block LaTeX rendering utilizing custom MathJax layouts at 60 FPS.</li>
-        <li><strong>Local Document Ingestion:</strong> Parsing of PDF, DOCX, RTF, and plain text files extracted directly from local ZIP archives.</li>
+        <li><strong>Chat View:</strong> Seamless interface that lets users talk with the AI without any hassle, powered by cloud-hosted Ollama models (with Gemma 3 as the default).</li>
+        <li><strong>Liquid Glass Chat UI:</strong> A floating interactive input bar utilizing dynamic spring physics, dragging gestures, and custom haptic click patterns.</li>
+        <li><strong>MathJax LaTeX Engine:</strong> Real-time rendering of inline and block algebraic, calculus, and quantum equations at 60 FPS.</li>
+        <li><strong>Notes Sharing:</strong> Supports sharing notes in multiple formats, including PDF, DOCX, RTF, and plain text files extracted directly from local ZIP archives.</li>
       </ul>
     </td>
   </tr>
 </table>
+
+
 
 ---
 
@@ -173,25 +184,20 @@ Currently working as a Freelance Software Engineer for international clients (Up
   </tr>
   <tr>
     <td width="26%" valign="top">
-      <strong>Web Developer</strong><br>
+      <strong>Software Developer</strong><br>
       <sub>Freelance</sub><br>
-      <sub>10/2022 – 06/2025 · Hybrid</sub>
+      <sub>08/2022 – 06/2025 · Hybrid</sub>
     </td>
     <td width="74%" valign="top">
-      <strong>Custom Web Solutions & Portfolio Development</strong><br>
-      Delivered full-stack web applications and portfolio sites. Built the <strong>Bright Achievers Migration & Consultancy</strong> business website and a dynamic <strong>photographer portfolio</strong> with a custom self-managed admin panel.<br>
+      <strong>Custom Web & Desktop Solutions</strong><br>
+      Designed and built full-stack web and desktop applications for local clients while studying for my HND.
+      <br><br>
+      <strong>Web Portals & Portfolios</strong><br>
+      Developed responsive, database-driven websites with PHP, Laravel, and MySQL—including the Bright Achievers migration consultancy site with onboarding flows and a photographer portfolio with a custom administrative panel.<br>
       <sub>PHP · Laravel · MySQL · Tailwind CSS · JavaScript · GitHub</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="26%" valign="top">
-      <strong>C# Developer</strong><br>
-      <sub>Freelance</sub><br>
-      <sub>08/2023 – 05/2025 · Hybrid</sub>
-    </td>
-    <td width="74%" valign="top">
-      <strong>Inventory & Management Systems</strong><br>
-      Engineered custom management systems for a pharmacy (<strong>Pubudhu Pharmacy</strong>) and a local supermarket — including a cashier system and inventory manager, both connected to a unified SQL database for real-time accuracy.<br>
+      <br><br>
+      <strong>Inventory & POS Systems</strong><br>
+      Engineered custom desktop inventory and cashier POS management systems in C# / .NET Framework sharing a single SQL database for real-time stock synchronization.<br>
       <sub>C# · .NET Framework · SQL · Git</sub>
     </td>
   </tr>
