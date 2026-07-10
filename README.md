@@ -6,14 +6,20 @@
 
 Full-stack web and mobile engineer · Laravel · Flutter · Swift · Python
 
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-141413?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shehara.dayzsolutions.com)&nbsp;
+[![Resume](https://img.shields.io/badge/Resume-FF3B30?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](docs/Thineth-Shehara.pdf)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheharanayanananda@gmail.com)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thineth-nayanananda-54815b228/)&nbsp;
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/23205547/shehara-nayanananda)&nbsp;
 
-<img src="https://streak-stats.demolab.com/?user=sheharanayanananda&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
-
 [![GitHub Followers](https://img.shields.io/github/followers/sheharanayanananda?style=for-the-badge&logo=github&logoColor=white&color=24292F)](https://github.com/sheharanayanananda?tab=followers)&nbsp;
 [![Views](https://api.visitorbadge.io/api/visitors?path=sheharanayanananda&style=for-the-badge&label=VIEWS&labelColor=%23555555&countColor=%2324292F)](#)
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=sheharanayanananda&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
 
 </div>
 
@@ -37,91 +43,39 @@ Currently working as a Freelance Software Engineer for international clients (Up
 
 ---
 
-## Work
+## Featured Project: Slate - iOS Note-Taking Ecosystem
+
+[Slate](https://github.com/sheharanayanananda/Slate) is a modern iOS note-taking ecosystem built with **Swift, SwiftUI, and SwiftData**, offering two entirely different architectural approaches for the application:
 
 <table width="100%">
   <tr>
-    <td width="26%" valign="top">
-      <strong>Software Engineer</strong><br>
-      <sub>Freelance</sub><br>
-      <sub>01/2026 – Present · Remote</sub>
+    <td width="50%" valign="top">
+      <strong>🎨 Slate Origin</strong><br>
+      <em>The core local-first SwiftUI experience.</em>
+      <ul>
+        <li><strong>Features:</strong> Custom Rich Text Format (RTF) engine, native text view canvas, note lists, PDF/RTF sharing, and local data persistence via SwiftData.</li>
+        <li><strong>Smart Lense:</strong> Integrated camera utility using Gemma 3 model prompts to analyze images and generate structured markdown notes instantly.</li>
+        <li><strong>Architecture:</strong> Strict MVVM model separating SwiftUI views, SwiftData models, and hardware integrations.</li>
+      </ul>
     </td>
-    <td width="74%" valign="top">
-      <strong>Freelance Web & Mobile Development — Upwork & Private Contracts</strong><br>
-      Building and shipping high-performance full-stack web and mobile applications for global clients. Specialize in custom API development, clean state management, and robust backend integrations.<br>
-      <sub>Flutter · Dart · Swift · SwiftUI · PHP · Laravel · Next.js · Python · PostgreSQL · Redis · Stripe</sub>
-      <br><br>
-      <strong>UNiFY — Multi-Feature Sports Ecosystem (Contract)</strong><br>
-      Mobile and backend developer on a sports app for NBA, WNBA, NFL, and NCAA fans. Stabilized, refactored, and extended a Flutter frontend and Python/Flask API with WebSockets for real-time scores, push notifications, and NFC "Baller Band" integration.<br>
-      <sub>Flutter · Dart · Provider · go_router · WebSockets · Push Notifications · NFC · Python · Flask · PostgreSQL · Redis · AWS · Stripe</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="26%" valign="top">
-      <strong>Associate Software Engineer / Lead Developer</strong><br>
-      <sub>DayZ Solutions (Pvt.) Ltd.</sub><br>
-      <sub>05/2025 – 07/2026 · Nittambuwa, Sri Lanka</sub>
-    </td>
-    <td width="74%" valign="top">
-      <strong>Deurbeslag Gigant — Lead Developer</strong><br>
-      Centralized e-commerce inventory management system for a Dutch retail company. Lead developer on V1 for stability and backend feature delivery. Designing V2 with Filament tables and a unified Flux UI design system for a commercial multi-tenant version.<br>
-      <sub>PHP · Laravel · Livewire · Alpine.js · Tailwind CSS · MySQL · REST APIs · Bitbucket</sub>
-      <br><br>
-      <strong>ECore Web App & Mobile — BetonStorten.nl</strong><br>
-      Core company automation software managing orders, inventory, machinery, and personnel. Built real-time API integrations consumed by a companion Flutter mobile app.<br>
-      <sub>Laravel · PHP · MySQL · REST APIs · Tailwind CSS · Livewire · Flutter · Dart</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="26%" valign="top">
-      <strong>Web Developer</strong><br>
-      <sub>Freelance</sub><br>
-      <sub>10/2022 – 06/2025 · Hybrid</sub>
-    </td>
-    <td width="74%" valign="top">
-      <strong>Custom Web Solutions & Portfolio Development</strong><br>
-      Delivered full-stack web applications and portfolio sites. Built the <strong>Bright Achievers Migration & Consultancy</strong> business website and a dynamic <strong>photographer portfolio</strong> with a custom self-managed admin panel.<br>
-      <sub>PHP · Laravel · MySQL · Tailwind CSS · JavaScript · GitHub</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="26%" valign="top">
-      <strong>C# Developer</strong><br>
-      <sub>Freelance</sub><br>
-      <sub>08/2023 – 05/2025 · Hybrid</sub>
-    </td>
-    <td width="74%" valign="top">
-      <strong>Inventory & Management Systems</strong><br>
-      Engineered custom management systems for a pharmacy (<strong>Pubudhu Pharmacy</strong>) and a local supermarket — including a cashier system and inventory manager, both connected to a unified SQL database for real-time accuracy.<br>
-      <sub>C# · .NET Framework · SQL · Git</sub>
+    <td width="50%" valign="top">
+      <strong>🧠 Slate Agentic</strong><br>
+      <em>Next-generation autonomous knowledge engine (Source-Available).</em>
+      <ul>
+        <li><strong>AI Agent Command Center:</strong> Central chat command deck powered by Ollama to query notes, summarize attachments, and automate complex developer workflows in the background.</li>
+        <li><strong>Dynamic Physics UI:</strong> Capsule floating input layout utilizing custom horizontal/vertical drag-stretching animations and spring dynamics with soft-to-rigid haptic feedback.</li>
+        <li><strong>Markdown & Math Rendering:</strong> Implemented high-performance Markdown parsing and inline/block LaTeX rendering utilizing custom MathJax layouts at 60 FPS.</li>
+        <li><strong>Local Document Ingestion:</strong> Parsing of PDF, DOCX, RTF, and plain text files extracted directly from local ZIP archives.</li>
+      </ul>
     </td>
   </tr>
 </table>
 
 ---
 
-## Projects
+## Other Projects
 
 <table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <strong><a href="https://github.com/sheharanayanananda/Slate-V2">Slate V2</a></strong> 🔒 &nbsp;
-      <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
-      <img src="https://img.shields.io/badge/SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
-      <img src="https://img.shields.io/badge/SwiftData-F05138?style=flat-square&logo=swift&logoColor=white" alt="SwiftData" />
-      <br>
-      Successor of Slate. Next-generation iOS notes app featuring a new way of using notes, on the way... Stay Tuned!
-      <!-- Successor of Slate. Next-generation iOS notes app featuring an autonomous, context-aware AI Agent ecosystem with deep multi-model reasoning presets, cross-platform integrations (Gmail/Slack), high-fidelity markdown & LaTeX, and custom liquid physics. -->
-    </td>
-    <td width="50%" valign="top">
-      <strong><a href="https://github.com/sheharanayanananda/Slate">Slate</a></strong> &nbsp;
-      <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
-      <img src="https://img.shields.io/badge/SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
-      <img src="https://img.shields.io/badge/SwiftData-F05138?style=flat-square&logo=swift&logoColor=white" alt="SwiftData" />
-      <br>
-      Modern iOS notes application built with Swift, SwiftUI, and SwiftData. Features a custom rich-text editor (RTF), PDF/RTF note sharing, and Smart Lense—an integrated camera AI utility using Gemma 3 to generate structured notes from visual contexts.
-    </td>
-  </tr>
   <tr>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/sheharanayanananda/ECore-Flutter">ECore Mobile</a></strong> 🔒 &nbsp;
@@ -180,6 +134,69 @@ Currently working as a Freelance Software Engineer for international clients (Up
   </tr>
 </table>
 
+
+
+## Work
+
+<table width="100%">
+  <tr>
+    <td width="26%" valign="top">
+      <strong>Software Engineer</strong><br>
+      <sub>Freelance</sub><br>
+      <sub>01/2026 – Present · Remote</sub>
+    </td>
+    <td width="74%" valign="top">
+      <strong>Freelance Web & Mobile Development — Upwork & Private Contracts</strong><br>
+      Building and shipping high-performance full-stack web and mobile applications for global clients. Specialize in custom API development, clean state management, and robust backend integrations.<br>
+      <sub>Flutter · Dart · Swift · SwiftUI · PHP · Laravel · Next.js · Python · PostgreSQL · Redis · Stripe</sub>
+      <br><br>
+      <strong>UNiFY — Multi-Feature Sports Ecosystem (Contract)</strong><br>
+      Mobile and backend developer on a sports app for NBA, WNBA, NFL, and NCAA fans. Stabilized, refactored, and extended a Flutter frontend and Python/Flask API with WebSockets for real-time scores, push notifications, and NFC "Baller Band" integration.<br>
+      <sub>Flutter · Dart · WebSockets · Push Notifications · NFC · Python · Flask · PostgreSQL · Redis · AWS · Stripe</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="26%" valign="top">
+      <strong>Associate Software Engineer</strong><br>
+      <sub>DayZ Solutions (Pvt.) Ltd.</sub><br>
+      <sub>05/2025 – 07/2026 · Nittambuwa, Sri Lanka</sub>
+    </td>
+    <td width="74%" valign="top">
+      <strong>Deurbeslag Gigant — Lead Developer</strong><br>
+      Centralized e-commerce inventory management system for a Dutch retail company. Lead developer on V1 for stability and backend feature delivery. Designing V2 with Filament tables and a unified Flux UI design system for a commercial multi-tenant version.<br>
+      <sub>PHP · Laravel · Livewire · Alpine.js · Tailwind CSS · MySQL · REST APIs · Bitbucket</sub>
+      <br><br>
+      <strong>ECore Web App & Mobile — BetonStorten.nl</strong><br>
+      Core company automation software managing orders, inventory, machinery, and personnel. Built real-time API integrations consumed by a companion Flutter mobile app.<br>
+      <sub>Laravel · PHP · MySQL · REST APIs · Tailwind CSS · Livewire · Flutter · Dart</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="26%" valign="top">
+      <strong>Web Developer</strong><br>
+      <sub>Freelance</sub><br>
+      <sub>10/2022 – 06/2025 · Hybrid</sub>
+    </td>
+    <td width="74%" valign="top">
+      <strong>Custom Web Solutions & Portfolio Development</strong><br>
+      Delivered full-stack web applications and portfolio sites. Built the <strong>Bright Achievers Migration & Consultancy</strong> business website and a dynamic <strong>photographer portfolio</strong> with a custom self-managed admin panel.<br>
+      <sub>PHP · Laravel · MySQL · Tailwind CSS · JavaScript · GitHub</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="26%" valign="top">
+      <strong>C# Developer</strong><br>
+      <sub>Freelance</sub><br>
+      <sub>08/2023 – 05/2025 · Hybrid</sub>
+    </td>
+    <td width="74%" valign="top">
+      <strong>Inventory & Management Systems</strong><br>
+      Engineered custom management systems for a pharmacy (<strong>Pubudhu Pharmacy</strong>) and a local supermarket — including a cashier system and inventory manager, both connected to a unified SQL database for real-time accuracy.<br>
+      <sub>C# · .NET Framework · SQL · Git</sub>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## Education
@@ -198,13 +215,24 @@ Currently working as a Freelance Software Engineer for international clients (Up
   </tr>
   <tr>
     <td width="26%" valign="top">
+      <strong>01/2026</strong><br>
+      <sub>IELTS Academic</sub>
+    </td>
+    <td width="74%" valign="top">
+      <strong>IELTS Academic English Proficiency</strong><br>
+      IDP IELTS Test Center · Overall Band Score: <strong>6.5</strong> &nbsp;·&nbsp; CEFR Level: <strong>B2</strong><br>
+      <sub>Listening: 7.5 &nbsp;·&nbsp; Reading: 7.0 &nbsp;·&nbsp; Writing: 6.0 &nbsp;·&nbsp; Speaking: 5.5 · TRF Number: 25LK505172HEWT012A</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="26%" valign="top">
       <strong>02/2023 – 02/2025</strong><br>
       <sub>Gampaha, Sri Lanka</sub>
     </td>
     <td width="74%" valign="top">
       <strong>Pearson BTEC Level 5 HND in Computing — Software Engineering</strong><br>
       ESOFT Metro Campus, Gampaha · Grade: <strong>Merit</strong><br>
-      <sub>Ofqual-regulated · QN 603/7596/6 · Reg. No. RG 10904 · Covered programming, databases, networking, security, SDLC, DSA, web development, and UX/UI.</sub>
+      <sub>240 Credits · Ofqual-regulated · QN 603/7596/6 · Reg. No. RG 10904</sub>
     </td>
   </tr>
   <tr>
@@ -215,7 +243,7 @@ Currently working as a Freelance Software Engineer for international clients (Up
     <td width="74%" valign="top">
       <strong>Pearson Assured Level 3 Diploma in Information Technology (DiTEC)</strong><br>
       ESOFT Metro Campus, Gampaha · Grade: <strong>Merit</strong><br>
-      <sub>1,200-hour programme · Pearson ID SF96401 · ESOFT ID E176422</sub>
+      <sub>1,200-hour programme · Pearson ID: SF96401 · ESOFT ID: E176422</sub>
     </td>
   </tr>
   <tr>
@@ -226,7 +254,7 @@ Currently working as a Freelance Software Engineer for international clients (Up
     <td width="74%" valign="top">
       <strong>Assured Level 3 Diploma in English (DiE)</strong><br>
       ESOFT Metro Campus, Gampaha · Grade: <strong>Pass</strong><br>
-      <sub>15 units · Grammar, vocabulary, reading, writing, listening, speaking · ESOFT ID E176422</sub>
+      <sub>15 units · ESOFT ID: E176422 · Ref No: GAM0170214 · Registration ID: 00148929</sub>
     </td>
   </tr>
   <tr>
@@ -244,24 +272,6 @@ Currently working as a Freelance Software Engineer for international clients (Up
 
 ---
 
-## Certifications
-
-<table width="100%">
-  <tr>
-    <td width="26%" valign="top">
-      <strong>01/2026</strong><br>
-      <sub>IELTS Academic</sub>
-    </td>
-    <td width="74%" valign="top">
-      <strong>IELTS Academic English Proficiency</strong><br>
-      Overall Band Score: <strong>6.5</strong> &nbsp;·&nbsp; CEFR Level: <strong>B2</strong><br>
-      <sub>Listening: 7.5 &nbsp;·&nbsp; Reading: 7.0 &nbsp;·&nbsp; Writing: 6.0 &nbsp;·&nbsp; Speaking: 5.5</sub>
-    </td>
-  </tr>
-</table>
-
----
-
 ## Languages
 
 | Language | Proficiency |
@@ -270,20 +280,4 @@ Currently working as a Freelance Software Engineer for international clients (Up
 | 🇬🇧 English | Proficient — IELTS Band 6.5 (CEFR B2) |
 | 🇫🇮 Finnish | Conversational — actively studying ahead of Tampere, Finland |
 
----
 
-## Resume
-
-<div align="center">
-
-[![Download Resume](https://img.shields.io/badge/Download%20Resume-FF3B30?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](docs/Thineth-Shehara.pdf)
-
-*Up-to-date CV — click to view or download the full PDF.*
-
-</div>
-
----
-
-<div align="center">
-  <sub>Building secure, scalable, and user-centric software with clean architectures.</sub>
-</div>
