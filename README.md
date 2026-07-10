@@ -2,7 +2,7 @@
 
 # Thineth Shehara
 
-**Associate Software Engineer · Freelancer**
+**Software Engineer · Freelancer**
 
 Full-stack web and mobile engineer · Laravel · Flutter · Swift · Python
 
@@ -11,6 +11,12 @@ Full-stack web and mobile engineer · Laravel · Flutter · Swift · Python
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheharanayanananda@gmail.com)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thineth-nayanananda-54815b228/)&nbsp;
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/23205547/shehara-nayanananda)&nbsp;
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=sheharanayanananda&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+
+<br>
 
 [![GitHub Followers](https://img.shields.io/github/followers/sheharanayanananda?style=for-the-badge&logo=github&logoColor=white&color=24292F)](https://github.com/sheharanayanananda?tab=followers)&nbsp;
 [![Views](https://api.visitorbadge.io/api/visitors?path=sheharanayanananda&style=for-the-badge&label=VIEWS&labelColor=%23555555&countColor=%2324292F)](#)
@@ -21,9 +27,9 @@ Full-stack web and mobile engineer · Laravel · Flutter · Swift · Python
 
 ## About
 
-I'm an Associate Software Engineer with a track record of designing and shipping secure, scalable, and high-performance software. I specialize in full-stack web development with PHP and Laravel, and cross-platform mobile development using Flutter, Swift, and Kotlin. I care deeply about clean architecture, intuitive UX, and software that is maintainable at scale.
+I'm a Software Engineer with a track record of designing and shipping secure, scalable, and high-performance software. I specialize in full-stack web development with PHP and Laravel, and cross-platform mobile development using Flutter, Swift, and Kotlin. I care deeply about clean architecture, intuitive UX, and software that is maintainable at scale.
 
-Currently working at DayZ Solutions while freelancing remotely. Beginning my **Bachelor of Engineering in Software Engineering at TAMK, Finland** in August 2026.
+Currently working as a Freelance Software Engineer for international clients (Upwork & private contracts) while relocating and preparing to begin my **Bachelor of Engineering in Software Engineering at TAMK, Finland** in August 2026.
 
 ---
 
@@ -37,36 +43,9 @@ Currently working at DayZ Solutions while freelancing remotely. Beginning my **B
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sheharanayanananda&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com/?user=sheharanayanananda&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
-</div>
-
----
-
 ## Work
 
 <table width="100%">
-  <tr>
-    <td width="26%" valign="top">
-      <strong>Associate Software Engineer</strong><br>
-      <sub>DayZ Solutions (Pvt.) Ltd.</sub><br>
-      <sub>05/2025 – Present · Nittambuwa, Sri Lanka</sub>
-    </td>
-    <td width="74%" valign="top">
-      <strong>Deurbeslag Gigant — Lead Engineer</strong><br>
-      Centralized e-commerce inventory management system for a Dutch retail company. Lead developer on V1 for stability and backend feature delivery. Designing V2 with Filament tables and a unified Flux UI design system for a commercial multi-tenant version.<br>
-      <sub>PHP · Laravel · Livewire · Alpine.js · Tailwind CSS · MySQL · REST APIs · Bitbucket</sub>
-      <br><br>
-      <strong>ECore Web App & Mobile — BetonStorten.nl</strong><br>
-      Core company automation software managing orders, inventory, machinery, and personnel. Built real-time API integrations consumed by a companion Flutter mobile app.<br>
-      <sub>Laravel · PHP · MySQL · REST APIs · Tailwind CSS · Livewire · Flutter · Dart</sub>
-    </td>
-  </tr>
   <tr>
     <td width="26%" valign="top">
       <strong>Software Engineer</strong><br>
@@ -74,9 +53,29 @@ Currently working at DayZ Solutions while freelancing remotely. Beginning my **B
       <sub>01/2026 – Present · Remote</sub>
     </td>
     <td width="74%" valign="top">
-      <strong>UNiFY — Multi-Feature Sports Ecosystem</strong><br>
-      Mobile and backend developer on a multi-platform sports app for NBA, WNBA, NFL, and NCAA fans. Joined as second developer to stabilize, refactor, and extend a Flutter frontend and Python/Flask API with real-time features including WebSockets, media streaming, push notifications, and NFC "Baller Band" integration.<br>
+      <strong>Freelance Web & Mobile Development — Upwork & Private Contracts</strong><br>
+      Building and shipping high-performance full-stack web and mobile applications for global clients. Specialize in custom API development, clean state management, and robust backend integrations.<br>
+      <sub>Flutter · Dart · Swift · SwiftUI · PHP · Laravel · Next.js · Python · PostgreSQL · Redis · Stripe</sub>
+      <br><br>
+      <strong>UNiFY — Multi-Feature Sports Ecosystem (Contract)</strong><br>
+      Mobile and backend developer on a sports app for NBA, WNBA, NFL, and NCAA fans. Stabilized, refactored, and extended a Flutter frontend and Python/Flask API with WebSockets for real-time scores, push notifications, and NFC "Baller Band" integration.<br>
       <sub>Flutter · Dart · Provider · go_router · WebSockets · Push Notifications · NFC · Python · Flask · PostgreSQL · Redis · AWS · Stripe</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="26%" valign="top">
+      <strong>Associate Software Engineer / Lead Developer</strong><br>
+      <sub>DayZ Solutions (Pvt.) Ltd.</sub><br>
+      <sub>05/2025 – 07/2026 · Nittambuwa, Sri Lanka</sub>
+    </td>
+    <td width="74%" valign="top">
+      <strong>Deurbeslag Gigant — Lead Developer</strong><br>
+      Centralized e-commerce inventory management system for a Dutch retail company. Lead developer on V1 for stability and backend feature delivery. Designing V2 with Filament tables and a unified Flux UI design system for a commercial multi-tenant version.<br>
+      <sub>PHP · Laravel · Livewire · Alpine.js · Tailwind CSS · MySQL · REST APIs · Bitbucket</sub>
+      <br><br>
+      <strong>ECore Web App & Mobile — BetonStorten.nl</strong><br>
+      Core company automation software managing orders, inventory, machinery, and personnel. Built real-time API integrations consumed by a companion Flutter mobile app.<br>
+      <sub>Laravel · PHP · MySQL · REST APIs · Tailwind CSS · Livewire · Flutter · Dart</sub>
     </td>
   </tr>
   <tr>
