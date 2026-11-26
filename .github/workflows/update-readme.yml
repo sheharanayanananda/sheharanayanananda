@@ -1,0 +1,61 @@
+name: Update README Stats
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '0 6 * * *'   # Runs daily at 06:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch GitHub stats & update README
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 - <<'EOF'
+          import urllib.request, json, re, os, datetime
+
+          TOKEN = os.environ["GH_TOKEN"]
+          HEADERS = {"Authorization": f"Bearer {TOKEN}", "Accept": "application/vnd.github+json", "User-Agent": "readme-bot"}
+
+          def api(endpoint):
+              req = urllib.request.Request(f"https://api.github.com{endpoint}", headers=HEADERS)
+              with urllib.request.urlopen(req) as r:
+                  return json.loads(r.read().decode())
+
+          user = api("/users/sheharanayanananda")
+          repos = api("/users/sheharanayanananda/repos?per_page=100")
+
+          public_repos = user["public_repos"]
+          followers    = user["followers"]
+          stars        = sum(r.get("stargazers_count", 0) for r in repos)
+          since        = datetime.datetime.strptime(user["created_at"], "%Y-%m-%dT%H:%M:%SZ").strftime("%b %Y")
+
+          new_line = f"  stats      repos: {public_repos}  ·  stars: {stars}  ·  followers: {followers}  ·  since: {since}"
+
+          with open("README.md") as f:
+              content = f.read()
+
+          updated = re.sub(
+              r"<!-- STATS:START -->.*?<!-- STATS:END -->",
+              f"<!-- STATS:START -->\n{new_line}\n<!-- STATS:END -->",
+              content,
+              flags=re.DOTALL
+          )
+
+          with open("README.md", "w") as f:
+              f.write(updated)
+
+          print(f"Updated stats: {new_line}")
+          EOF
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet || (git add README.md && git commit -m "chore: auto-update README stats" && git push)
