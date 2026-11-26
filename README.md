@@ -1,4 +1,4 @@
-```text
+<pre style="background: transparent; border: none; padding: 0; margin: 0; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; line-height: 1.45;">
 ╭──────────────────────────────────────────────────────────────────────────────────────╮
 │ ● ● ●   shehara@darwin-arm64 — zsh                                                   │
 ├──────────────────────────────────────────────────────────────────────────────────────┤
@@ -15,7 +15,7 @@
 │                                                                                      │
 ╰──────────────────────────────────────────────────────────────────────────────────────╯
 
-shehara@darwin-arm64 ~ % whoami
+<b>shehara@darwin-arm64 ~ %</b> whoami
 
   name       Thineth Shehara Nayanananda
   role       Software Engineer
@@ -23,14 +23,14 @@ shehara@darwin-arm64 ~ % whoami
   uptime     4+ years shipping production software
   status     [OPEN]  available for select contracts & collaborations
 
-shehara@darwin-arm64 ~ % cat stack.conf
+<b>shehara@darwin-arm64 ~ %</b> cat stack.conf
 
   [native_mobile]    Swift · SwiftUI · SwiftData · Flutter · Dart · Kotlin
-  [full_stack]       Laravel · PHP · Livewire · Next.js · React · Tailwind CSS
+  [full_stack]       Laravel · PHP · Livewire ·x  Next.js · React · Tailwind CSS
   [systems]          Python · FastAPI · WebSockets · OpenCV · MediaPipe · AsyncIO
   [data_infra]       PostgreSQL · MySQL · Redis · SQLite · AWS · Nginx · Docker
 
-shehara@darwin-arm64 ~ % ls -1 projects/
+<b>shehara@darwin-arm64 ~ %</b> ls -1 projects/
 
   slate-genesis/
   unify-sports-platform/
@@ -39,7 +39,7 @@ shehara@darwin-arm64 ~ % ls -1 projects/
   air-gestures/
   project-enigma/
 
-shehara@darwin-arm64 ~ % cat projects/slate-genesis/INFO
+<b>shehara@darwin-arm64 ~ %</b> cat projects/slate-genesis/INFO
 
   name        Slate Genesis
   type        Native iOS Application · Hybrid Block Editor · GenUI
@@ -51,7 +51,7 @@ shehara@darwin-arm64 ~ % cat projects/slate-genesis/INFO
   Powered by cloud LLMs with 3 tuned tiers, offline KaTeX math rendering,
   and a pure-Swift document parser.
 
-shehara@darwin-arm64 ~ % cat projects/unify-sports-platform/INFO
+<b>shehara@darwin-arm64 ~ %</b> cat projects/unify-sports-platform/INFO
 
   name        UNiFY Sports Platform
   type        Mobile & Realtime Infrastructure
@@ -62,7 +62,7 @@ shehara@darwin-arm64 ~ % cat projects/unify-sports-platform/INFO
   Powers NBA, WNBA, NFL, and NCAA fan communities with sub-second live
   scoreboards, low-latency group chat, and NFC smart wearable integrations.
 
-shehara@darwin-arm64 ~ % cat projects/ecore-logistics/INFO
+<b>shehara@darwin-arm64 ~ %</b> cat projects/ecore-logistics/INFO
 
   name        ECore Logistics & Automation
   type        Mobile Lead · Logistics Automation
@@ -74,7 +74,7 @@ shehara@darwin-arm64 ~ % cat projects/ecore-logistics/INFO
   dispatch managers get live machinery telemetry and job scheduling tools
   across both a Laravel backend and a Flutter companion app.
 
-shehara@darwin-arm64 ~ % cat projects/deurbeslag-gigant/INFO
+<b>shehara@darwin-arm64 ~ %</b> cat projects/deurbeslag-gigant/INFO
 
   name        Deurbeslag Gigant
   type        High-Throughput E-Commerce & Inventory Management
@@ -86,7 +86,7 @@ shehara@darwin-arm64 ~ % cat projects/deurbeslag-gigant/INFO
   SKUs across 6+ WooCommerce storefronts and Bol.com in real time, with zero
   overselling and instant stock propagation.
 
-shehara@darwin-arm64 ~ % cat projects/air-gestures/INFO
+<b>shehara@darwin-arm64 ~ %</b> cat projects/air-gestures/INFO
 
   name        Air Gestures
   type        Sub-Pixel Window Manipulation Engine
@@ -97,7 +97,7 @@ shehara@darwin-arm64 ~ % cat projects/air-gestures/INFO
   Control macOS application windows in the air with sub-pixel precision
   using only your laptop's built-in webcam. Zero calibration. Pure CV.
 
-shehara@darwin-arm64 ~ % cat projects/project-enigma/INFO
+<b>shehara@darwin-arm64 ~ %</b> cat projects/project-enigma/INFO
 
   name        Project Enigma
   type        Algorithmic Crypto Futures Trading Terminal
@@ -108,7 +108,7 @@ shehara@darwin-arm64 ~ % cat projects/project-enigma/INFO
   Standalone, high-throughput trading terminal with live order book monitoring,
   portfolio telemetry, and automated execution strategies — all in a TUI.
 
-shehara@darwin-arm64 ~ % tree education/
+<b>shehara@darwin-arm64 ~ %</b> tree education/
 
   education/
   ├── tamk/
@@ -123,7 +123,7 @@ shehara@darwin-arm64 ~ % tree education/
       ├── result      Band 6.5  ·  CEFR B2
       └── breakdown   Listening 7.5  ·  Reading 7.0  ·  Writing 6.0  ·  Speaking 5.5
 
-shehara@darwin-arm64 ~ % ./connect
+<b>shehara@darwin-arm64 ~ %</b> ./connect
 
   portfolio   https://shehara.dayzsolutions.com
   github      https://github.com/sheharanayanananda
@@ -131,8 +131,8 @@ shehara@darwin-arm64 ~ % ./connect
   email       sheharanayanananda@gmail.com
   resume      github.com/sheharanayanananda/sheharanayanananda/blob/main/docs/Thineth-Shehara.pdf
 
-shehara@darwin-arm64 ~ % █
-```
+<b>shehara@darwin-arm64 ~ %</b> █
+</pre>
 
 <div align="right">
   <sub>
