@@ -1,138 +1,310 @@
-<pre style="background: #0d1117; color: #c9d1d9; border: none; padding: 16px; margin: 0; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; line-height: 1.45;">
-<span style="color:#484f58">╭──────────────────────────────────────────────────────────────────────────────────────╮</span>
-<span style="color:#484f58">│</span> <span style="color:#ff5f56">⬤</span> <span style="color:#ffbd2e">⬤</span> <span style="color:#27c93f">⬤</span>   <span style="color:#f0f6fc">shehara@darwin-arm64</span>  <span style="color:#58a6ff">~/profile</span>  <span style="color:#8b949e">[zsh 5.9]</span>           <span style="color:#56d364">↑</span> <span style="color:#8b949e">up 4y · 🇫🇮 Tampere</span> <span style="color:#484f58">│</span>
-<span style="color:#484f58">├──────────────────────────────────────────────────────────────────────────────────────┤</span>
-<span style="color:#484f58">│</span>                                                                                      <span style="color:#484f58">│</span>
-<span style="color:#484f58">│</span>  <span style="color:#58a6ff">████████╗██╗  ██╗██╗███╗   ██╗███████╗████████╗██╗  ██╗</span>                             <span style="color:#484f58">│</span>
-<span style="color:#484f58">│</span>  <span style="color:#58a6ff">╚══██╔══╝██║  ██║██║████╗  ██║██╔════╝╚══██╔══╝██║  ██║</span>                             <span style="color:#484f58">│</span>
-<span style="color:#484f58">│</span>     <span style="color:#58a6ff">██║   ███████║██║██╔██╗ ██║█████╗     ██║   ███████║</span>                             <span style="color:#484f58">│</span>
-<span style="color:#484f58">│</span>     <span style="color:#58a6ff">██║   ██╔══██║██║██║╚██╗██║██╔══╝     ██║   ██╔══██║</span>                             <span style="color:#484f58">│</span>
-<span style="color:#484f58">│</span>     <span style="color:#58a6ff">██║   ██║  ██║██║██║ ╚████║███████╗   ██║   ██║  ██║</span>                             <span style="color:#484f58">│</span>
-<span style="color:#484f58">│</span>     <span style="color:#58a6ff">╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚═╝  ╚═╝</span>                             <span style="color:#484f58">│</span>
-<span style="color:#484f58">│</span>                                                                                      <span style="color:#484f58">│</span>
-<span style="color:#484f58">│</span>  <span style="color:#f0f6fc">Thineth Shehara</span> <span style="color:#8b949e">·</span> <span style="color:#76e3ea">Software Engineer</span>                                                 <span style="color:#484f58">│</span>
-<span style="color:#484f58">│</span>  <span style="color:#8b949e">Tampere, Finland  ·  Open To Work</span>                                                   <span style="color:#484f58">│</span>
-<span style="color:#484f58">│</span>                                                                                      <span style="color:#484f58">│</span>
-<span style="color:#484f58">╰──────────────────────────────────────────────────────────────────────────────────────╯</span>
+<div align="center">
 
-<span style="color:#56d364">shehara@darwin-arm64</span> <span style="color:#58a6ff">~/profile</span> <span style="color:#e3b341"><b>❯</b></span> <span style="color:#f0f6fc">whoami</span>
+# Thineth Shehara
 
-  <span style="color:#ffa657">name</span>       <a href="https://shehara.dayzsolutions.com" style="color:#f0f6fc">Thineth Shehara Nayanananda</a>
-  <span style="color:#ffa657">role</span>       Software Engineer
-  <span style="color:#ffa657">study</span>      B.Eng in Software Engineering · <a href="https://www.tamk.fi/en" style="color:#58a6ff">TAMK</a>, Tampere, Finland  🇫🇮
-  <span style="color:#ffa657">uptime</span>     4+ years shipping production software
-  <span style="color:#ffa657">status</span>     <span style="color:#56d364">[ ✦ OPEN ]</span>  available for select contracts &amp; collaborations
-<!-- STATS:START -->
-  <span style="color:#ffa657">stats</span>      <span style="color:#76e3ea">repos:</span> 18  ·  <span style="color:#76e3ea">stars:</span> 11  ·  <span style="color:#76e3ea">followers:</span> 6  ·  <span style="color:#76e3ea">since:</span> Apr 2022
-<!-- STATS:END -->
+**Software Engineer · Freelancer**
 
-<span style="color:#56d364">shehara@darwin-arm64</span> <span style="color:#58a6ff">~/profile</span> <span style="color:#e3b341"><b>❯</b></span> <span style="color:#f0f6fc">cat stack.conf</span>
+Full-stack web and mobile engineer · Laravel · Flutter · Swift · Python
 
-  <span style="color:#e3b341">[native_mobile]</span>    Swift · SwiftUI · SwiftData · Flutter · Dart · Kotlin
-  <span style="color:#e3b341">[full_stack]</span>       Laravel · PHP · Livewire · Next.js · React · Tailwind CSS
-  <span style="color:#e3b341">[systems]</span>          Python · FastAPI · WebSockets · OpenCV · MediaPipe · AsyncIO
-  <span style="color:#e3b341">[data_infra]</span>       PostgreSQL · MySQL · Redis · SQLite · AWS · Nginx · Docker
+<br>
 
-<span style="color:#56d364">shehara@darwin-arm64</span> <span style="color:#58a6ff">~/profile</span> <span style="color:#e3b341"><b>❯</b></span> <span style="color:#f0f6fc">ls -1 projects/</span>
+[![Portfolio](https://img.shields.io/badge/Portfolio-141413?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shehara.dayzsolutions.com)&nbsp;
+[![Resume](https://img.shields.io/badge/Resume-FF3B30?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](docs/Thineth-Shehara.pdf)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheharanayanananda@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thineth-nayanananda-54815b228/)&nbsp;
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/23205547/shehara-nayanananda)&nbsp;
 
-  <a href="https://github.com/sheharanayanananda/Slate" style="color:#58a6ff">slate-genesis/</a>
-  unify-sports-platform/      <span style="color:#8b949e">private</span>
-  ecore-logistics/            <span style="color:#8b949e">private</span>
-  deurbeslag-gigant/          <span style="color:#8b949e">private</span>
-  <a href="https://github.com/sheharanayanananda/Gestures" style="color:#58a6ff">air-gestures/</a>
-  project-enigma/             <span style="color:#8b949e">private</span>
+[![GitHub Followers](https://img.shields.io/github/followers/sheharanayanananda?style=for-the-badge&logo=github&logoColor=white&color=24292F)](https://github.com/sheharanayanananda?tab=followers)&nbsp;
+[![Views](https://api.visitorbadge.io/api/visitors?path=sheharanayanananda&style=for-the-badge&label=VIEWS&labelColor=%23555555&countColor=%2324292F)](#)
 
-<span style="color:#56d364">shehara@darwin-arm64</span> <span style="color:#58a6ff">~/profile</span> <span style="color:#e3b341"><b>❯</b></span> <span style="color:#f0f6fc">cat projects/slate-genesis/INFO</span>
+<br>
 
-  <span style="color:#ffa657">name</span>        <span style="color:#f0f6fc">Slate Genesis</span>
-  <span style="color:#ffa657">type</span>        Native iOS Application · Hybrid Block Editor · GenUI
-  <span style="color:#ffa657">tech</span>        <span style="color:#76e3ea">Swift · SwiftUI · SwiftData · Ollama Cloud · KaTeX</span>
-  <span style="color:#ffa657">status</span>      <span style="color:#56d364">[ ▶ ACTIVE ]</span>  highest priority project
-  <span style="color:#ffa657">url</span>         <a href="https://github.com/sheharanayanananda/Slate" style="color:#58a6ff">github.com/sheharanayanananda/Slate</a>
+<img src="https://streak-stats.demolab.com/?user=sheharanayanananda&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
 
-  Intelligent notes app for iOS rebuilt on a hybrid block canvas.
-  Powered by cloud LLMs with 3 tuned tiers, offline KaTeX math rendering,
-  and a pure-Swift document parser.
+</div>
 
-<span style="color:#56d364">shehara@darwin-arm64</span> <span style="color:#58a6ff">~/profile</span> <span style="color:#e3b341"><b>❯</b></span> <span style="color:#f0f6fc">cat projects/unify-sports-platform/INFO</span>
+---
 
-  <span style="color:#ffa657">name</span>        <span style="color:#f0f6fc">UNiFY Sports Platform</span>
-  <span style="color:#ffa657">type</span>        Mobile &amp; Realtime Infrastructure
-  <span style="color:#ffa657">tech</span>        <span style="color:#76e3ea">Flutter · Python / Flask · WebSockets · AWS</span>
-  <span style="color:#ffa657">status</span>      <span style="color:#e3b341">[ ◈ CLIENT ]</span>  contracted · USA-based sports startup
-  <span style="color:#ffa657">visibility</span>  <span style="color:#8b949e">private</span>
+## About
 
-  Powers NBA, WNBA, NFL, and NCAA fan communities with sub-second live
-  scoreboards, low-latency group chat, and NFC smart wearable integrations.
+I'm a Software Engineer with a track record of designing and shipping secure, scalable, and high-performance software. I specialize in full-stack web development with PHP and Laravel, and cross-platform mobile development using Flutter, Swift, and Kotlin. I care deeply about clean architecture, intuitive UX, and software that is maintainable at scale.
 
-<span style="color:#56d364">shehara@darwin-arm64</span> <span style="color:#58a6ff">~/profile</span> <span style="color:#e3b341"><b>❯</b></span> <span style="color:#f0f6fc">cat projects/ecore-logistics/INFO</span>
+Currently based in **Tampere, Finland** 🇫🇮, studying **Bachelor of Engineering in Software Engineering at TAMK** (240 ECTS) while working as a Freelance Software Engineer for international clients. **Open To Work** for select contracts and collaborations.
 
-  <span style="color:#ffa657">name</span>        <span style="color:#f0f6fc">ECore Logistics &amp; Automation</span>
-  <span style="color:#ffa657">type</span>        Mobile Lead · Logistics Automation
-  <span style="color:#ffa657">tech</span>        <span style="color:#76e3ea">Flutter · Laravel · WebSockets · MySQL</span>
-  <span style="color:#ffa657">status</span>      <span style="color:#e3b341">[ ◈ CLIENT ]</span>  contracted · Netherlands
-  <span style="color:#ffa657">visibility</span>  <span style="color:#8b949e">private</span>
+---
 
-  Sole mobile lead for a Dutch logistics operation. Field operators and
-  dispatch managers get live machinery telemetry and job scheduling tools
-  across both a Laravel backend and a Flutter companion app.
+## Tech Stack
 
-<span style="color:#56d364">shehara@darwin-arm64</span> <span style="color:#58a6ff">~/profile</span> <span style="color:#e3b341"><b>❯</b></span> <span style="color:#f0f6fc">cat projects/deurbeslag-gigant/INFO</span>
+<div align="center">
 
-  <span style="color:#ffa657">name</span>        <span style="color:#f0f6fc">Deurbeslag Gigant</span>
-  <span style="color:#ffa657">type</span>        High-Throughput E-Commerce &amp; Inventory Management
-  <span style="color:#ffa657">tech</span>        <span style="color:#76e3ea">Laravel · Livewire · Meilisearch · WooCommerce APIs</span>
-  <span style="color:#ffa657">status</span>      <span style="color:#e3b341">[ ◈ CLIENT ]</span>  contracted · Netherlands
-  <span style="color:#ffa657">visibility</span>  <span style="color:#8b949e">private</span>
+[![Swift & SwiftUI](https://img.shields.io/badge/Swift%20%26%20SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)&nbsp;&nbsp;[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)&nbsp;&nbsp;[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)&nbsp;&nbsp;[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)&nbsp;&nbsp;[![PHP](https://img.shields.io/badge/PHP-7C3AED?style=for-the-badge&logo=php&logoColor=white)](https://php.net)&nbsp;&nbsp;[![Python](https://img.shields.io/badge/Python-F7C948?style=for-the-badge&logo=python&logoColor=black)](https://python.org)&nbsp;&nbsp;[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)&nbsp;&nbsp;[![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white)](#)&nbsp;&nbsp;[![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white)](https://livewire.laravel.com)&nbsp;&nbsp;[![Flask](https://img.shields.io/badge/Flask-00B4D8?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com)&nbsp;&nbsp;[![Next.js](https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=nextdotjs&logoColor=black)](https://nextjs.org)&nbsp;&nbsp;[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)&nbsp;&nbsp;[![Alpine.js](https://img.shields.io/badge/Alpine.js-36A2EB?style=for-the-badge&logo=alpinedotjs&logoColor=white)](https://alpinejs.dev)&nbsp;&nbsp;[![UI & UX](https://img.shields.io/badge/UI%20%26%20UX-FF3CAC?style=for-the-badge&logo=figma&logoColor=white)](#)&nbsp;&nbsp;[![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)](#)&nbsp;&nbsp;[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](#)&nbsp;&nbsp;[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](#)&nbsp;&nbsp;[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)&nbsp;&nbsp;[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](#)&nbsp;&nbsp;[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sheharanayanananda)&nbsp;&nbsp;[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](#)&nbsp;&nbsp;[![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)](#)
 
-  Central inventory system for a Dutch hardware retail chain. Syncs 50,000+
-  SKUs across 6+ WooCommerce storefronts and Bol.com in real time, with zero
-  overselling and instant stock propagation.
+</div>
 
-<span style="color:#56d364">shehara@darwin-arm64</span> <span style="color:#58a6ff">~/profile</span> <span style="color:#e3b341"><b>❯</b></span> <span style="color:#f0f6fc">cat projects/air-gestures/INFO</span>
+## Featured Project: Slate — Notes, but Intelligent
 
-  <span style="color:#ffa657">name</span>        <span style="color:#f0f6fc">Air Gestures</span>
-  <span style="color:#ffa657">type</span>        Sub-Pixel Window Manipulation Engine
-  <span style="color:#ffa657">tech</span>        <span style="color:#76e3ea">Python 3 · MediaPipe · OpenCV · macOS Quartz CoreGraphics</span>
-  <span style="color:#ffa657">status</span>      <span style="color:#76e3ea">[ ○ PUBLIC ]</span>  open source
-  <span style="color:#ffa657">url</span>         <a href="https://github.com/sheharanayanananda/Gestures" style="color:#58a6ff">github.com/sheharanayanananda/Gestures</a>
+[Slate](https://github.com/sheharanayanananda/Slate) is a high-performance iOS note-taking ecosystem built with **Swift, SwiftUI, and SwiftData**, showcasing two completely different architectural approaches to personal knowledge bases:
 
-  Control macOS application windows in the air with sub-pixel precision
-  using only your laptop's built-in webcam. Zero calibration. Pure CV.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" style="padding: 16px;">
+      <h3 align="center">🎨 Slate Origin</h3>
+      <p align="center"><em>"Take notes without hassle"</em></p>
+      <hr>
+      <strong>🛠️ Core Focus:</strong> Local-first note management, fluid native performance, and offline-first data safety.<br><br>
+      <strong>Tech Stack:</strong><br>
+      <code>Swift</code> · <code>SwiftUI</code> · <code>SwiftData</code> · <code>Ollama Cloud Models</code> · <code>RTF Engine</code><br><br>
+      <strong>Special Features:</strong>
+      <ul>
+        <li><strong>Rich Text Format (RTF) Engine:</strong> Custom native text views rendering rich layouts at 60 FPS.</li>
+        <li><strong>Smart Lense:</strong> Camera AI utility utilizing the Google Gemma 3 model hosted on Ollama cloud to capture and structure physical document snapshots into organized digital markdown notes.</li>
+        <li><strong>Local Persistence:</strong> Safe, local-first database modeling using SwiftData with background synchronization.</li>
+        <li><strong>Notes Sharing:</strong> Supports sharing notes in multiple formats, including RTF and PDF.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" style="padding: 16px;">
+      <h3 align="center">Slate Genesis</h3>
+      <p align="center"><em>"Revolutionize the way you take notes"</em></p>
+      <hr>
+      <strong>Core Focus:</strong> Hybrid block canvas, natural language actions, and context-aware document synthesis.<br><br>
+      <strong>Tech Stack:</strong><br>
+      <code>Ollama Cloud (3 Tiers)</code> · <code>Combine</code> · <code>KaTeX</code> · <code>Haptic Feedback API</code> · <code>Pure-Swift Document Parser</code><br><br>
+      <strong>Special Features:</strong>
+      <ul>
+        <li><strong>Chat View:</strong> Seamless interface that lets users talk with the AI without any hassle, powered by cloud-hosted Ollama models with 3 tuned tiers (Flash, Creative, Pro).</li>
+        <li><strong>Liquid Glass Chat UI:</strong> A floating interactive input bar utilizing dynamic spring physics, dragging gestures, and custom haptic click patterns.</li>
+        <li><strong>Offline KaTeX Math Engine:</strong> Real-time rendering of inline and block algebraic, calculus, and quantum equations at 60 FPS.</li>
+        <li><strong>Notes Sharing:</strong> Supports sharing notes in multiple formats, including PDF, DOCX, RTF, and plain text files extracted directly from local ZIP archives.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<span style="color:#56d364">shehara@darwin-arm64</span> <span style="color:#58a6ff">~/profile</span> <span style="color:#e3b341"><b>❯</b></span> <span style="color:#f0f6fc">cat projects/project-enigma/INFO</span>
 
-  <span style="color:#ffa657">name</span>        <span style="color:#f0f6fc">Project Enigma</span>
-  <span style="color:#ffa657">type</span>        Algorithmic Crypto Futures Trading Terminal
-  <span style="color:#ffa657">tech</span>        <span style="color:#76e3ea">Python · Textual TUI · AsyncIO · Binance Futures API</span>
-  <span style="color:#ffa657">status</span>      <span style="color:#bc8cff">[ ● PRIVATE ]</span>  personal system
-  <span style="color:#ffa657">visibility</span>  <span style="color:#8b949e">private</span>
 
-  Standalone, high-throughput trading terminal with live order book monitoring,
-  portfolio telemetry, and automated execution strategies — all in a TUI.
+---
 
-<span style="color:#56d364">shehara@darwin-arm64</span> <span style="color:#58a6ff">~/profile</span> <span style="color:#e3b341"><b>❯</b></span> <span style="color:#f0f6fc">tree education/</span>
+## Other Projects
 
-  <span style="color:#58a6ff">education/</span>
-  <span style="color:#484f58">├──</span> <span style="color:#e3b341">tamk/</span>
-  <span style="color:#484f58">│   ├──</span> <span style="color:#ffa657">degree</span>      B.Eng in Software Engineering
-  <span style="color:#484f58">│   ├──</span> <span style="color:#ffa657">location</span>    Tampere University of Applied Sciences, Finland  🇫🇮
-  <span style="color:#484f58">│   └──</span> <span style="color:#ffa657">period</span>      Aug 2026 – Present  ·  240 ECTS
-  <span style="color:#484f58">├──</span> <span style="color:#e3b341">esoft/</span>
-  <span style="color:#484f58">│   ├──</span> <span style="color:#ffa657">degree</span>      Pearson BTEC Level 5 HND in Computing (Software Engineering)
-  <span style="color:#484f58">│   ├──</span> <span style="color:#ffa657">grade</span>       Merit  ·  240 Credits
-  <span style="color:#484f58">│   └──</span> <span style="color:#ffa657">period</span>      Feb 2023 – Feb 2025
-  <span style="color:#484f58">└──</span> <span style="color:#e3b341">ielts/</span>
-      <span style="color:#484f58">├──</span> <span style="color:#ffa657">result</span>      Band 6.5  ·  CEFR B2
-      <span style="color:#484f58">└──</span> <span style="color:#ffa657">breakdown</span>   Listening 7.5  ·  Reading 7.0  ·  Writing 6.0  ·  Speaking 5.5
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/sheharanayanananda/ECore-Flutter">ECore Mobile</a></strong> 🔒 &nbsp;
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+      <br>
+      Commercial company automation mobile interface for BetonStorten.nl. Displays data, allows actions like order creation, status updates, etc., while business logic remains in the web platform. <i>(Private repository)</i>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/sheharanayanananda/TaskFlow">TaskFlow</a></strong> &nbsp;
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+      <img src="https://img.shields.io/badge/PHP-7C3AED?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+      <br>
+      Modern task management web app with auth, CRUD, and full task organization by status, priority, due date, and category.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/sheharanayanananda/BAMC_Website">BAMC Website</a></strong> &nbsp;
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <br>
+      Frontend website for <strong>Bright Achievers Migration & Consultancy</strong> — a real Sri Lankan consultancy firm. Custom UI/UX, responsive design, and client inquiry forms.
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/sheharanayanananda/Malcolm-Lismore">Malcolm-Lismore</a></strong> &nbsp;
+      <img src="https://img.shields.io/badge/PHP-7C3AED?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+      <br>
+      Full-stack responsive website with a PHP backend. Covers front-end design, server-side logic, and dynamic content delivery.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/sheharanayanananda/Notes">Notes — Android</a></strong> &nbsp;
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+      <br>
+      Android note-taking app built with Jetpack Compose and Room Database. Clean MVVM architecture with an aesthetic, minimal UI.
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/sheharanayanananda/Voice_Assistant">Voice Assistant</a></strong> &nbsp;
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+      <br>
+      Desktop voice command app using .NET speech synthesis and recognition. Responds to natural language voice inputs with system actions.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/sheharanayanananda/Quiet-Attic-Films">Quiet Attic Films</a></strong> &nbsp;
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+      <br>
+      Database management system for a film production company built with C# Windows Forms and SQL Server. Full CRUD with relational data management.
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/sheharanayanananda/Gestures">Air Gestures</a></strong> &nbsp;
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+      <br>
+      Zero-calibration, high-precision macOS window controller using your laptop webcam, MediaPipe, and macOS Quartz CoreGraphics.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/sheharanayanananda/Enigma">Project Enigma</a></strong> 🔒 &nbsp;
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Textual-TUI-24292F?style=flat-square" alt="Textual" />
+      <br>
+      Algorithmic cryptocurrency futures trading terminal with live order books, telemetry, and automated execution in a Textual TUI. <i>(Private repository)</i>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/sheharanayanananda/datacenter-hackathon">EcoTown Datacenter</a></strong> &nbsp;
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <br>
+      Interactive 3D datacenter energy management simulation game built for a Nordic hackathon with React, Express, and SQLite.
+    </td>
+  </tr>
+</table>
 
-<span style="color:#56d364">shehara@darwin-arm64</span> <span style="color:#58a6ff">~/profile</span> <span style="color:#e3b341"><b>❯</b></span> <span style="color:#f0f6fc">./connect</span>
 
-  <span style="color:#ffa657">portfolio</span>   <a href="https://shehara.dayzsolutions.com" style="color:#58a6ff">https://shehara.dayzsolutions.com</a>
-  <span style="color:#ffa657">github</span>      <a href="https://github.com/sheharanayanananda" style="color:#58a6ff">https://github.com/sheharanayanananda</a>
-  <span style="color:#ffa657">linkedin</span>    <a href="https://linkedin.com/in/thineth-nayanananda-54815b228" style="color:#58a6ff">https://linkedin.com/in/thineth-nayanananda-54815b228</a>
-  <span style="color:#ffa657">email</span>       <a href="mailto:sheharanayanananda@gmail.com" style="color:#58a6ff">sheharanayanananda@gmail.com</a>
-  <span style="color:#ffa657">resume</span>      <a href="https://github.com/sheharanayanananda/sheharanayanananda/blob/main/docs/Thineth-Shehara.pdf" style="color:#58a6ff">Thineth-Shehara.pdf ↗</a>
 
-<span style="color:#56d364">shehara@darwin-arm64</span> <span style="color:#58a6ff">~/profile</span> <span style="color:#e3b341"><b>❯</b></span> <span style="color:#58a6ff">█</span>
-</pre>
+## Work
+
+<table width="100%">
+  <tr>
+    <td width="26%" valign="top">
+      <strong>Software Engineer</strong><br>
+      <sub>Freelance</sub><br>
+      <sub>01/2026 – Present · Remote</sub>
+    </td>
+    <td width="74%" valign="top">
+      <strong>Freelance Web & Mobile Development — Upwork & Private Contracts</strong><br>
+      Building and shipping high-performance full-stack web and mobile applications for global clients. Specialize in custom API development, clean state management, and robust backend integrations.<br>
+      <sub>Flutter · Dart · Swift · SwiftUI · PHP · Laravel · Next.js · Python · PostgreSQL · Redis · Stripe</sub>
+      <br><br>
+      <strong>UNiFY — Multi-Feature Sports Ecosystem (Contract)</strong><br>
+      Mobile and backend developer on a sports app for NBA, WNBA, NFL, and NCAA fans. Stabilized, refactored, and extended a Flutter frontend and Python/Flask API with WebSockets for real-time scores, push notifications, and NFC "Baller Band" integration.<br>
+      <sub>Flutter · Dart · WebSockets · Push Notifications · NFC · Python · Flask · PostgreSQL · Redis · AWS · Stripe</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="26%" valign="top">
+      <strong>Associate Software Engineer</strong><br>
+      <sub>DayZ Solutions (Pvt.) Ltd.</sub><br>
+      <sub>05/2025 – 07/2026 · Nittambuwa, Sri Lanka</sub>
+    </td>
+    <td width="74%" valign="top">
+      <strong>Deurbeslag Gigant — Lead Developer</strong><br>
+      Centralized e-commerce inventory management system for a Dutch retail company. Lead developer on V1 for stability and backend feature delivery. Designing V2 with Filament tables and a unified Flux UI design system for a commercial multi-tenant version.<br>
+      <sub>PHP · Laravel · Livewire · Alpine.js · Tailwind CSS · MySQL · REST APIs · Bitbucket</sub>
+      <br><br>
+      <strong>ECore Web App & Mobile — BetonStorten.nl</strong><br>
+      Core company automation software managing orders, inventory, machinery, and personnel. Built real-time API integrations consumed by a companion Flutter mobile app.<br>
+      <sub>Laravel · PHP · MySQL · REST APIs · Tailwind CSS · Livewire · Flutter · Dart</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="26%" valign="top">
+      <strong>Software Developer</strong><br>
+      <sub>Freelance</sub><br>
+      <sub>08/2022 – 06/2025 · Hybrid</sub>
+    </td>
+    <td width="74%" valign="top">
+      <strong>Custom Web & Desktop Solutions</strong><br>
+      Designed and built full-stack web and desktop applications for local clients while studying for my HND.
+      <br><br>
+      <strong>Web Portals & Portfolios</strong><br>
+      Developed responsive, database-driven websites with PHP, Laravel, and MySQL—including the Bright Achievers migration consultancy site with onboarding flows and a photographer portfolio with a custom administrative panel.<br>
+      <sub>PHP · Laravel · MySQL · Tailwind CSS · JavaScript · GitHub</sub>
+      <br><br>
+      <strong>Inventory & POS Systems</strong><br>
+      Engineered custom desktop inventory and cashier POS management systems in C# / .NET Framework sharing a single SQL database for real-time stock synchronization.<br>
+      <sub>C# · .NET Framework · SQL · Git</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Education
+
+<table width="100%">
+  <tr>
+    <td width="26%" valign="top">
+      <strong>08/2026 – Present</strong><br>
+      <sub>Tampere, Finland 🇫🇮</sub>
+    </td>
+    <td width="74%" valign="top">
+      <strong>Bachelor of Engineering in Software Engineering</strong><br>
+      Tampere University of Applied Sciences (TAMK)<br>
+      <sub>240 ECTS · 4 years · Focused on modern software development, full-stack architecture, cloud infrastructure, and applied ML. Active member of <strong>Source</strong> (TAMK Software Engineering Student Club) and <strong>TIRO ry</strong> (Tampere Engineering Students Association).</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="26%" valign="top">
+      <strong>01/2026</strong><br>
+      <sub>IELTS Academic</sub>
+    </td>
+    <td width="74%" valign="top">
+      <strong>IELTS Academic English Proficiency</strong><br>
+      IDP IELTS Test Center · Overall Band Score: <strong>6.5</strong> &nbsp;·&nbsp; CEFR Level: <strong>B2</strong><br>
+      <sub>Listening: 7.5 &nbsp;·&nbsp; Reading: 7.0 &nbsp;·&nbsp; Writing: 6.0 &nbsp;·&nbsp; Speaking: 5.5 · TRF Number: 25LK505172HEWT012A</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="26%" valign="top">
+      <strong>02/2023 – 02/2025</strong><br>
+      <sub>Gampaha, Sri Lanka</sub>
+    </td>
+    <td width="74%" valign="top">
+      <strong>Pearson BTEC Level 5 HND in Computing — Software Engineering</strong><br>
+      ESOFT Metro Campus, Gampaha · Grade: <strong>Merit</strong><br>
+      <sub>240 Credits · Ofqual-regulated · QN 603/7596/6 · Reg. No. RG 10904</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="26%" valign="top">
+      <strong>07/2022 – 08/2023</strong><br>
+      <sub>Gampaha, Sri Lanka</sub>
+    </td>
+    <td width="74%" valign="top">
+      <strong>Pearson Assured Level 3 Diploma in Information Technology (DiTEC)</strong><br>
+      ESOFT Metro Campus, Gampaha · Grade: <strong>Merit</strong><br>
+      <sub>1,200-hour programme · Pearson ID: SF96401 · ESOFT ID: E176422</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="26%" valign="top">
+      <strong>07/2022 – 08/2023</strong><br>
+      <sub>Gampaha, Sri Lanka</sub>
+    </td>
+    <td width="74%" valign="top">
+      <strong>Assured Level 3 Diploma in English (DiE)</strong><br>
+      ESOFT Metro Campus, Gampaha · Grade: <strong>Pass</strong><br>
+      <sub>15 units · ESOFT ID: E176422 · Ref No: GAM0170214 · Registration ID: 00148929</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="26%" valign="top">
+      <strong>2022</strong><br>
+      <sub>Gampaha, Sri Lanka</sub>
+    </td>
+    <td width="74%" valign="top">
+      <strong>G.C.E. Ordinary Level Examination</strong><br>
+      Henegama Central College — National School<br>
+      <sub>A — ICT · A — English · B — Mathematics · B — Science · B — Sinhala</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Languages
+
+| Language | Proficiency |
+|----------|-------------|
+| 🇱🇰 Sinhala | Native / Bilingual |
+| 🇬🇧 English | Proficient — IELTS Band 6.5 (CEFR B2) |
+| 🇫🇮 Finnish | Conversational — living and studying in Tampere, Finland |
+
+
